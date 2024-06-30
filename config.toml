@@ -67,6 +67,12 @@ themeColor = "#0078bd"
   url = "/teaching/"
 
   [[menu.main]]
+  name = "📝 Lecture Notes"
+  identifier = "lecturenotes"
+  weight = 250
+  url = "/lecture-notes/"
+
+  [[menu.main]]
   name = "📄 Publications"
   identifier = "publications"
   weight = 300
