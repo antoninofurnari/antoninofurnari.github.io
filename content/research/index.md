@@ -44,24 +44,6 @@ I am interested in developing algorithms and wearable systems based on egocentri
 ## Research Highlights
 This highlights recent research aligned to my main research interests. Please see the <a href="/publications/" target="_blank">publications page</a> for a full list of publications.
 
-### PREGO: online mistake detection in PRocedural EGOcentric videos
-<table id="bibtexify-24" class="display"></table>
-<pre id="bibtex-24" class="raw-bibtex js-hidden">
-@inproceedings{flaborea2024PREGO,
-  year = { 2024 },
-  booktitle = {  Conference on Computer Vision and Pattern Recognition (CVPR)  },
-  title = {  PREGO: online mistake detection in PRocedural EGOcentric videos  },
-  author = { Alessandro Flaborea and Guido D'Amely and Leonardo Plini and Luca Scofano and Edoardo De Matteis and Antonino Furnari and Giovanni Maria Farinella and Fabio Galasso },
-  pdf={https://arxiv.org/pdf/2404.01933}
-}
-</pre>
-
-<img src="prego.png" class='pull-left' width=500>
-Promptly identifying procedural errors from egocentric videos in an online setting is highly challenging and valuable for detecting mistakes as soon as they happen. This capability has a wide range of applications across various fields, such as manufacturing and healthcare. The nature of procedural mistakes is open-set since novel types of failures might occur, which calls for one-class classifiers trained on correctly executed procedures. However, no technique can currently detect open-set procedural mistakes online. We propose PREGO, the first online one-class classification model for mistake detection in PRocedural EGOcentric videos. PREGO is based on an online action recognition component to model the current action, and a symbolic reasoning module to predict the next actions. Mistake detection is performed by comparing the recognized current action with the expected future one. We evaluate PREGO on two procedural egocentric video datasets, Assembly101 and Epic-tent, which we adapt for online benchmarking of procedural mistake detection to establish suitable benchmarks, thus defining the Assembly101-O and Epic-tent-O datasets, respectively.
-
-<a href="https://github.com/aleflabo/PREGO">Web Page</a>
-
-
 ### Action Scene Graphs for Long-Form Understanding of Egocentric Videos
 <table id="bibtexify-23" class="display"></table>
 <pre id="bibtex-23" class="raw-bibtex js-hidden">
@@ -102,6 +84,23 @@ We present Egocentric Action Scene Graphs (EASGs), a new representation for long
 Ego-Exo4D presents three meticulously synchronized natural language datasets paired with videos. (1) expert commentary, revealing nuanced skills. (2) participant-provided narrate-and-act descriptions in a tutorial style. (3) one-sentence atomic action descriptions to support browsing, mining the dataset, and addressing challenges in video-language learning. Our goal is to capture simultaneous ego and multiple exo videos, together with multiple egocentric sensing modalities. Our camera configuration features Aria glasses for ego capture, including an 8 MP RGB camera and two SLAM cameras. The ego camera is calibrated and time-synchronized with 4-5 (stationary) GoPros as the exo capture devices. The number and placement of the exocentric cameras is determined per scenario in order to allow maximal coverage of useful viewpoints without obstructing the participants’ activity. Apart from multiple views, we also capture multiple modalities. Along with the dataset, we introduce four benchmarks. The recognition benchmark aims to recognize individual keysteps and infer their relation in the execution of procedural activities. The proficiency estimation benchmark aims to estimate the camera wearer's skills. The relation benchmark focuses on methods to establish spatial relationships between synchronized multi-view frames. The pose estimation benchmarks concerns the estimation of the camera pose of the camera wearer.
 <a href="http://ego-exo4d-data.org">Web Page</a>
 
+
+### PREGO: online mistake detection in PRocedural EGOcentric videos
+<table id="bibtexify-24" class="display"></table>
+<pre id="bibtex-24" class="raw-bibtex js-hidden">
+@inproceedings{flaborea2024PREGO,
+  year = { 2024 },
+  booktitle = {  Conference on Computer Vision and Pattern Recognition (CVPR)  },
+  title = {  PREGO: online mistake detection in PRocedural EGOcentric videos  },
+  author = { Alessandro Flaborea and Guido D'Amely and Leonardo Plini and Luca Scofano and Edoardo De Matteis and Antonino Furnari and Giovanni Maria Farinella and Fabio Galasso },
+  pdf={https://arxiv.org/pdf/2404.01933}
+}
+</pre>
+
+<img src="prego.png" class='pull-left' width=500>
+Promptly identifying procedural errors from egocentric videos in an online setting is highly challenging and valuable for detecting mistakes as soon as they happen. This capability has a wide range of applications across various fields, such as manufacturing and healthcare. The nature of procedural mistakes is open-set since novel types of failures might occur, which calls for one-class classifiers trained on correctly executed procedures. However, no technique can currently detect open-set procedural mistakes online. We propose PREGO, the first online one-class classification model for mistake detection in PRocedural EGOcentric videos. PREGO is based on an online action recognition component to model the current action, and a symbolic reasoning module to predict the next actions. Mistake detection is performed by comparing the recognized current action with the expected future one. We evaluate PREGO on two procedural egocentric video datasets, Assembly101 and Epic-tent, which we adapt for online benchmarking of procedural mistake detection to establish suitable benchmarks, thus defining the Assembly101-O and Epic-tent-O datasets, respectively.
+
+<a href="https://github.com/aleflabo/PREGO">Web Page</a>
 
 ### An Outlook into the Future of Egocentric Vision
 <table id="bibtexify-21" class="display"></table>
