@@ -29,7 +29,7 @@ Sono disponibile alla supervisione (contemporanea di un numero limitato) di tesi
 
 # Anno Accademico 2020/2021
  * Social Media Management: materiale didattico disponibile su Teams
- * Statistical Laboratory: Teaching material available on Teams
+ * Statistical Laboratory: <a href="https://www.antoninofurnari.it/statlab2021/LectureNotesBook.pdf">Teaching material</a>
  * [Reading Group](https://iplab.dmi.unict.it/ReadingGroup/2020-2021)
  * Laboratori di Machine Learning: <a href="https://www.dmi.unict.it/farinella/ML">Materiale didattico sul sito del corso</a>
 
