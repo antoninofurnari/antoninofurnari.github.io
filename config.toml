@@ -1,0 +1,113 @@
+baseURL = "/"
+
+languageCode = "en"
+title = "Antonino Furnari"
+theme = "soho"
+enableInlineShortcodes = true
+summarylength = 10
+enableEmoji = true
+
+[params]
+author = "Antonino Furnari"
+role = "Assistant Professor"
+university = "University of Catania"
+#address1 = "Department of Mathematics and Computer Science"
+#address2 = "Viale A. Doria 6 - 95125, Catania, Italy"
+email = "antonino.furnari@unict.it"
+domain = "www.antoninofurnari.it"
+TranslateDomain = "www-antoninofurnari-it"
+
+## Set one of:
+# gravatar = "soho@example.com"
+profilePicture = "images/profile.jpg"
+
+copyright = "Antonino Furnari"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+#license = "CC BY-NC-SA 4.0"
+#licenseURL = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+## Set custom theme color.
+#themeColor = "#1c1c1c"
+themeColor = "#0078bd"
+
+## Set custom CSS and/or JS to override site defaults.
+#customCss = ["css/blog.css"]
+#customJs = ["js/blog.js"]
+
+  ## Set as many as you want.
+  #[[params.socialIcons]]
+  #icon = "fa-linkedin"
+  #title = "Linkedin"
+  #url = "#"
+
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "https://github.com/antoninofurnari"
+
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/anfurnari"
+
+[menu]
+
+  [[menu.main]]
+  name = "🔎 Research"
+  weight = 100
+  identifier = "research"
+  url = "/research/"
+
+  [[menu.main]]
+  name = "🧑‍🎓 Teaching"
+  identifier = "teaching"
+  weight = 200
+  url = "/teaching/"
+
+  [[menu.main]]
+  name = "📄 Publications"
+  identifier = "publications"
+  weight = 300
+  url = "/publications/"
+
+#  [[menu.main]]
+#  name = "🗣️ Talks"
+#  identifier = "talks"
+#  weight = 300
+#  url = "/talks/"
+
+#  [[menu.main]]
+#  name = "👨‍👨‍👦 Service"
+#  identifier = "service"
+#  weight = 300
+#  url = "/service/"
+
+ [[menu.main]]
+ name = "✉️ Contacts"
+ identifier = "contacts"
+ weight = 500
+ url = "/contacts/"
+
+
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = true
+  lineNumbersInTable = true
+  noClasses = false # if false, you need to provide you own custom CSS
+  style = "native"
+  tabWidth = 4
+
+[markup.goldmark.renderer]
+  unsafe= true

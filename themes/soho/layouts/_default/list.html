@@ -1,0 +1,25 @@
+{{ define "main" -}}
+<ul class="posts">
+  <h1 class="title">{{ .Title }} 
+    {{ if eq .Params.note.lang "ita"}}
+    <a style="text-decoration: none;" href="https://{{.Site.Params.TranslateDomain}}.translate.goog{{$.Permalink}}?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=it&_x_tr_pto=wapp">🇬🇧</a>
+    {{ end }}
+  </h1>
+  <!-- {{ range .Data.Pages -}}
+  <li>
+    <div class="flex">
+      <a href="{{ .Permalink }}" class="truncate">{{ .Title }}</a>
+      {{ if eq .Kind "page" }}
+      <time class="nowrap" datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+      {{ end }}
+    </div>
+  </li>
+  {{- end }} -->
+
+
+  <div class="post">
+    {{ .Content }}
+  </div>
+
+</ul>
+{{- end }}
