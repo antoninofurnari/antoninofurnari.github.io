@@ -6,6 +6,17 @@ disable_share: true
 <table id="bibtexify-e50c0b8366-" class="display"></table>
 <pre id="bibtex-e50c0b8366-" class="raw-bibtex js-hidden">
 
+@inproceedings{rodin2023action,
+  primaryclass = { cs.CV },
+  archiveprefix = { arXiv },
+  eprint = { 2312.03391 },
+  pdf = { https://arxiv.org/pdf/2312.03391.pdf },
+  year = { 2024 },
+  booktitle = {  Conference on Computer Vision and Pattern Recognition (CVPR)  },
+  title = { Action Scene Graphs for Long-Form Understanding of Egocentric Videos },
+  author = { Ivan Rodin and Antonino Furnari and Kyle Min and Subarna Tripathi and Giovanni Maria Farinella },
+}
+
 @article{Leonardi2023Exploiting,
   author = { Rosario Leonardi and Francesco Ragusa and Antonino Furnari and Giovanni Maria Farinella },
   journal = {   Computer Vision and Image Understanding (CVIU)   },
@@ -108,6 +119,7 @@ doi = {    },
   booktitle = {  Conference on Computer Vision and Pattern Recognition (CVPR)  },
   title = {  PREGO: online mistake detection in PRocedural EGOcentric videos  },
   author = { Alessandro Flaborea and Guido D'Amely and Leonardo Plini and Luca Scofano and Edoardo De Matteis and Antonino Furnari and Giovanni Maria Farinella and Fabio Galasso },
+  pdf={https://arxiv.org/pdf/2404.01933}
 }
 
 @inproceedings{yaar2023finding,

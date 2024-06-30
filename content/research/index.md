@@ -44,6 +44,104 @@ I am interested in developing algorithms and wearable systems based on egocentri
 ## Research Highlights
 This highlights recent research aligned to my main research interests. Please see the <a href="/publications/" target="_blank">publications page</a> for a full list of publications.
 
+### PREGO: online mistake detection in PRocedural EGOcentric videos
+<table id="bibtexify-1" class="display"></table>
+<pre id="bibtex-1" class="raw-bibtex js-hidden">
+@inproceedings{flaborea2024PREGO,
+  year = { 2024 },
+  booktitle = {  Conference on Computer Vision and Pattern Recognition (CVPR)  },
+  title = {  PREGO: online mistake detection in PRocedural EGOcentric videos  },
+  author = { Alessandro Flaborea and Guido D'Amely and Leonardo Plini and Luca Scofano and Edoardo De Matteis and Antonino Furnari and Giovanni Maria Farinella and Fabio Galasso },
+  pdf={https://arxiv.org/pdf/2404.01933}
+}
+</pre>
+
+<img src="prego.png" class='pull-left' width=500>
+PREGO is the first online one-class classification model for mistake detection in procedural egocentric videos. It uses an online action recognition component to model current actions and a symbolic reasoning module to predict next actions, detecting mistakes by comparing the recognized current action with the expected future one. We evaluate this on two adapted datasets, Assembly101-O and Epic-tent-O, for online benchmarking of procedural mistake detection.
+
+<a href="https://github.com/aleflabo/PREGO">Web Page</a>
+
+
+### Action Scene Graphs for Long-Form Understanding of Egocentric Videos
+<table id="bibtexify-1" class="display"></table>
+<pre id="bibtex-1" class="raw-bibtex js-hidden">
+@inproceedings{rodin2023action,
+  primaryclass = { cs.CV },
+  archiveprefix = { arXiv },
+  eprint = { 2312.03391 },
+  pdf = { https://arxiv.org/pdf/2312.03391.pdf },
+  year = { 2024 },
+  booktitle = {  Conference on Computer Vision and Pattern Recognition (CVPR)  },
+  title = { Action Scene Graphs for Long-Form Understanding of Egocentric Videos },
+  author = { Ivan Rodin and Antonino Furnari and Kyle Min and Subarna Tripathi and Giovanni Maria Farinella },
+}
+</pre>
+
+<img src="easg.jpg" class='pull-left' width=500>
+We present Egocentric Action Scene Graphs (EASGs), a new representation for long-form understanding of egocentric videos. EASGs extend standard manually-annotated representations of egocentric videos, such as verb-noun action labels, by providing a temporally evolving graphbased description of the actions performed by the camera wearer, including interacted objects, their relationships, and how actions unfold in time. Through a novel annotation procedure, we extend the Ego4D dataset by adding manually labeled Egocentric Action Scene Graphs offering a rich set of annotations designed for long-from egocentric video understanding. We hence define the EASG generation task and provide a baseline approach, establishing preliminary benchmarks. Experiments on two downstream tasks, egocentric action anticipation and egocentric activity summarization, highlight the effectiveness of EASGs for long-form egocentric video understanding.
+
+<a href="https://github.com/fpv-iplab/EASG">Web Page</a>
+
+### EGO-EXO4D
+<table id="bibtexify-1" class="display"></table>
+<pre id="bibtex-1" class="raw-bibtex js-hidden">
+@inproceedings{grauman2023egoexo4d,
+  primaryclass = { cs.CV },
+  archiveprefix = { arXiv },
+  eprint = { 2311.18259 },
+  pdf = { https://arxiv.org/pdf/2311.18259.pdf },
+  url = { https://ego-exo4d-data.org/ },
+  year = { 2024 },
+  booktitle = {  Conference on Computer Vision and Pattern Recognition (CVPR)  },
+  title = { Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives },
+  author = { Kristen Grauman and Andrew Westbury and Lorenzo Torresani and Kris Kitani and Jitendra Malik and Triantafyllos Afouras and Kumar Ashutosh and Vijay Baiyya and Siddhant Bansal and Bikram Boote and Eugene Byrne and Zach Chavis and Joya Chen and Feng Cheng and Fu-Jen Chu and Sean Crane and Avijit Dasgupta and Jing Dong and Maria Escobar and Cristhian Forigua and Abrham Gebreselasie and Sanjay Haresh and Jing Huang and Md Mohaiminul Islam and Suyog Jain and Rawal Khirodkar and Devansh Kukreja and Kevin J Liang and Jia-Wei Liu and Sagnik Majumder and Yongsen Mao and Miguel Martin and Effrosyni Mavroudi and Tushar Nagarajan and Francesco Ragusa and Santhosh Kumar Ramakrishnan and Luigi Seminara and Arjun Somayazulu and Yale Song and Shan Su and Zihui Xue and Edward Zhang and Jinxu Zhang and Angela Castillo and Changan Chen and Xinzhu Fu and Ryosuke Furuta and Cristina Gonzalez and Prince Gupta and Jiabo Hu and Yifei Huang and Yiming Huang and Weslie Khoo and Anush Kumar and Robert Kuo and Sach Lakhavani and Miao Liu and Mi Luo and Zhengyi Luo and Brighid Meredith and Austin Miller and Oluwatumininu Oguntola and Xiaqing Pan and Penny Peng and Shraman Pramanick and Merey Ramazanova and Fiona Ryan and Wei Shan and Kiran Somasundaram and Chenan Song and Audrey Southerland and Masatoshi Tateno and Huiyu Wang and Yuchen Wang and Takuma Yagi and Mingfei Yan and Xitong Yang and Zecheng Yu and Shengxin Cindy Zha and Chen Zhao and Ziwei Zhao and Zhifan Zhu and Jeff Zhuo and Pablo Arbelaez and Gedas Bertasius and David Crandall and Dima Damen and Jakob Engel and Giovanni Maria Farinella and Antonino Furnari and Bernard Ghanem and Judy Hoffman and C. V. Jawahar and Richard Newcombe and Hyun Soo Park and James M. Rehg and Yoichi Sato and Manolis Savva and Jianbo Shi and Mike Zheng Shou and Michael Wray },
+}
+</pre>
+
+<img src="egoexo4d.jpg" class='pull-left' width=500>
+Ego-Exo4D presents three meticulously synchronized natural language datasets paired with videos. (1) expert commentary, revealing nuanced skills. (2) participant-provided narrate-and-act descriptions in a tutorial style. (3) one-sentence atomic action descriptions to support browsing, mining the dataset, and addressing challenges in video-language learning. Our goal is to capture simultaneous ego and multiple exo videos, together with multiple egocentric sensing modalities. Our camera configuration features Aria glasses for ego capture, including an 8 MP RGB camera and two SLAM cameras. The ego camera is calibrated and time-synchronized with 4-5 (stationary) GoPros as the exo capture devices. The number and placement of the exocentric cameras is determined per scenario in order to allow maximal coverage of useful viewpoints without obstructing the participants’ activity. Apart from multiple views, we also capture multiple modalities. Along with the dataset, we introduce four benchmarks. The recognition benchmark aims to recognize individual keysteps and infer their relation in the execution of procedural activities. The proficiency estimation benchmark aims to estimate the camera wearer's skills. The relation benchmark focuses on methods to establish spatial relationships between synchronized multi-view frames. The pose estimation benchmarks concerns the estimation of the camera pose of the camera wearer.
+<a href="http://ego-exo4d-data.org">Web Page</a>
+
+
+### An Outlook into the Future of Egocentric Vision
+<table id="bibtexify-1" class="display"></table>
+<pre id="bibtex-1" class="raw-bibtex js-hidden">
+@article{Plizzari2024AnOutlook,
+  author = { Chiara Plizzari and Gabriele Goletto and Antonino Furnari and Siddhant Bansal and Francesco Ragusa and Giovanni Maria Farinella and Dima Damen and Tatiana Tommasi },
+  journal = {  International Journal of Computer Vision (IJCV)  },
+  title = {  An Outlook into the Future of Egocentric Vision  },
+  year = { 2024 },
+  url = { https://link.springer.com/article/10.1007/s11263-024-02095-7 },
+  pdf = {  https://link.springer.com/content/pdf/10.1007/s11263-024-02095-7.pdf  },
+  volume =
+pages =
+doi = {    },
+}
+</pre>
+
+<img src="outlook.jpg" class='pull-left' width=500>
+In this survey, we explore the gap between current research in egocentric vision and the ever-anticipated future, where wearable computing, with outward facing cameras and digital overlays, is expected to be integrated in our every day lives. To understand this gap, the article starts by envisaging the future through character-based stories, showcasing through examples the limitations of current technology. We then provide a mapping between this future and previously defined research tasks. For each task, we survey its seminal works, current state-of-the-art methodologies and available datasets, then reflect on shortcomings that limit its applicability to future research. Note that this survey focuses on software models for egocentric vision, independent of any specific hardware. The paper concludes with recommendations for areas of immediate explorations so as to unlock our path to the future always-on, personalised and life-enhancing egocentric vision.
+
+
+### StillFast: An End-to-End Approach for Short-Term Object Interaction Anticipation
+<table id="bibtexify-1" class="display"></table>
+<pre id="bibtex-1" class="raw-bibtex js-hidden">
+@InProceedings{ragusa2023stillfast,
+author={Francesco Ragusa and Giovanni Maria Farinella and Antonino Furnari},
+title={StillFast: An End-to-End Approach for Short-Term Object Interaction Anticipation},
+ booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+year      = {2023},
+pdf={https://arxiv.org/pdf/2304.03959.pdf}
+}
+</pre>
+
+<img src="stillfast.png" class='pull-left' width=500>
+Anticipation problems have been studied considering different aspects such as predicting humans' locations, predicting hands and objects trajectories, and forecasting actions and human-object interactions. In this paper, we studied the short-term object interaction anticipation problem from the egocentric point of view, proposing a new end-to-end architecture named StillFast. Our approach simultaneously processes a still image and a video detecting and localizing next-active objects, predicting the verb which describes the future interaction and determining when the interaction will start. Experiments on the large-scale egocentric dataset EGO4D show that our method outperformed state-of-the-art approaches on the considered task. Our method is ranked first in the public leaderboard of the EGO4D short term object interaction anticipation challenge 2022.
+
+
+
+<a href="https://iplab.dmi.unict.it/stillfast/">Web Page</a>
+
 ### EGO4D 
 <table id="bibtexify-1" class="display"></table>
 <pre id="bibtex-1" class="raw-bibtex js-hidden">
