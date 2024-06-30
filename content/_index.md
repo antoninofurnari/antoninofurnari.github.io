@@ -9,6 +9,7 @@ disable_share: true
 <h1>Short Bio</h1>
 Antonino Furnari is a tenure-track assistant professor at the <a target="_blank" href="https://www.unict.it/">University of Catania</a>. 
 He received a PhD degree in Mathematics and Computer Science in 2017 from the same institution and spent time as a visiting researcher at the University of Texas at Austin and at the University of Bristol.
+He belongs to the <a href="http://iplab.dmi.unict.it">Image Processing Laboratory</a> and the <a href="http://iplab.dmi.unict.it/fpv/">FPV@IPLAB research group</a>.
 He has been working on First Person (Egocentric) Computer Vision since 2014 and he is part of the <a target="_blank" href="https://epic-kitchens.github.io/">EPIC-KITCHENS</a> and <a href="https://ego4d-data.org/" target="_blank">EGO4D</a> teams.
 His research focuses on understanding human activity and future intent from egocentric video.
 
