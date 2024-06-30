@@ -45,8 +45,8 @@ I am interested in developing algorithms and wearable systems based on egocentri
 This highlights recent research aligned to my main research interests. Please see the <a href="/publications/" target="_blank">publications page</a> for a full list of publications.
 
 ### PREGO: online mistake detection in PRocedural EGOcentric videos
-<table id="bibtexify-1" class="display"></table>
-<pre id="bibtex-1" class="raw-bibtex js-hidden">
+<table id="bibtexify-24" class="display"></table>
+<pre id="bibtex-24" class="raw-bibtex js-hidden">
 @inproceedings{flaborea2024PREGO,
   year = { 2024 },
   booktitle = {  Conference on Computer Vision and Pattern Recognition (CVPR)  },
@@ -57,14 +57,14 @@ This highlights recent research aligned to my main research interests. Please se
 </pre>
 
 <img src="prego.png" class='pull-left' width=500>
-PREGO is the first online one-class classification model for mistake detection in procedural egocentric videos. It uses an online action recognition component to model current actions and a symbolic reasoning module to predict next actions, detecting mistakes by comparing the recognized current action with the expected future one. We evaluate this on two adapted datasets, Assembly101-O and Epic-tent-O, for online benchmarking of procedural mistake detection.
+Promptly identifying procedural errors from egocentric videos in an online setting is highly challenging and valuable for detecting mistakes as soon as they happen. This capability has a wide range of applications across various fields, such as manufacturing and healthcare. The nature of procedural mistakes is open-set since novel types of failures might occur, which calls for one-class classifiers trained on correctly executed procedures. However, no technique can currently detect open-set procedural mistakes online. We propose PREGO, the first online one-class classification model for mistake detection in PRocedural EGOcentric videos. PREGO is based on an online action recognition component to model the current action, and a symbolic reasoning module to predict the next actions. Mistake detection is performed by comparing the recognized current action with the expected future one. We evaluate PREGO on two procedural egocentric video datasets, Assembly101 and Epic-tent, which we adapt for online benchmarking of procedural mistake detection to establish suitable benchmarks, thus defining the Assembly101-O and Epic-tent-O datasets, respectively.
 
 <a href="https://github.com/aleflabo/PREGO">Web Page</a>
 
 
 ### Action Scene Graphs for Long-Form Understanding of Egocentric Videos
-<table id="bibtexify-1" class="display"></table>
-<pre id="bibtex-1" class="raw-bibtex js-hidden">
+<table id="bibtexify-23" class="display"></table>
+<pre id="bibtex-23" class="raw-bibtex js-hidden">
 @inproceedings{rodin2023action,
   primaryclass = { cs.CV },
   archiveprefix = { arXiv },
@@ -83,8 +83,8 @@ We present Egocentric Action Scene Graphs (EASGs), a new representation for long
 <a href="https://github.com/fpv-iplab/EASG">Web Page</a>
 
 ### EGO-EXO4D
-<table id="bibtexify-1" class="display"></table>
-<pre id="bibtex-1" class="raw-bibtex js-hidden">
+<table id="bibtexify-22" class="display"></table>
+<pre id="bibtex-22" class="raw-bibtex js-hidden">
 @inproceedings{grauman2023egoexo4d,
   primaryclass = { cs.CV },
   archiveprefix = { arXiv },
@@ -104,8 +104,8 @@ Ego-Exo4D presents three meticulously synchronized natural language datasets pai
 
 
 ### An Outlook into the Future of Egocentric Vision
-<table id="bibtexify-1" class="display"></table>
-<pre id="bibtex-1" class="raw-bibtex js-hidden">
+<table id="bibtexify-21" class="display"></table>
+<pre id="bibtex-21" class="raw-bibtex js-hidden">
 @article{Plizzari2024AnOutlook,
   author = { Chiara Plizzari and Gabriele Goletto and Antonino Furnari and Siddhant Bansal and Francesco Ragusa and Giovanni Maria Farinella and Dima Damen and Tatiana Tommasi },
   journal = {  International Journal of Computer Vision (IJCV)  },
@@ -124,8 +124,8 @@ In this survey, we explore the gap between current research in egocentric vision
 
 
 ### StillFast: An End-to-End Approach for Short-Term Object Interaction Anticipation
-<table id="bibtexify-1" class="display"></table>
-<pre id="bibtex-1" class="raw-bibtex js-hidden">
+<table id="bibtexify-20" class="display"></table>
+<pre id="bibtex-20" class="raw-bibtex js-hidden">
 @InProceedings{ragusa2023stillfast,
 author={Francesco Ragusa and Giovanni Maria Farinella and Antonino Furnari},
 title={StillFast: An End-to-End Approach for Short-Term Object Interaction Anticipation},
@@ -159,8 +159,8 @@ Anticipation problems have been studied considering different aspects such as pr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/taC2ZKl9IsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 Ego4D is a massive-scale Egocentric dataset of unprecedented diversity. It consists of 3,670 hours of video collected by 923 unique participants from 74 worldwide locations in 9 different countries. The project brings together 88 researchers, in an international consortium, to dramatically increases the scale of egocentric data publicly available by an order of magnitude, making it more than 20x greater than any other data set in terms of hours of footage. Ego4D aims to catalyse the next era of research in first-person visual perception. The dataset is diverse in its geographic coverage, scenarios, participants and captured modalities. We consulted a survey from the U.S. Bureau of Labor Statistics that captures how people spend the bulk of their time. Data was captured using seven different off-the-shelf head-mounted cameras: GoPro, Vuzix Blade, Pupil Labs, ZShades, OR- DRO EP6, iVue Rincon 1080, and Weeview. In addition to video, portions of Ego4D offer other data modalities: 3D scans, audio, gaze, stereo, multiple synchronized wearable cameras, and textual narrations.
-<a href="https://youtu.be/2dau0W0NVQY">Reveal Session</a>
-<a href="https://ego4d-data.org/">Web Page</a>
+<p><a href="https://youtu.be/2dau0W0NVQY">Reveal Session</a></p>
+<p><a href="https://ego4d-data.org/">Web Page</a></p>
 
 ### Streaming Egocentric Action Anticipation
 <table id="bibtexify-2" class="display"></table>
@@ -555,6 +555,12 @@ Contextual awareness in wearable computing allows for construction of intelligen
             bibtexify("#bibtex-17", "bibtexify-17", { hideMissing : true,});
             bibtexify("#bibtex-18", "bibtexify-18", { hideMissing : true,});
             bibtexify("#bibtex-19", "bibtexify-19", { hideMissing : true,});
+            bibtexify("#bibtex-20", "bibtexify-20", { hideMissing : true,});
+            bibtexify("#bibtex-21", "bibtexify-21", { hideMissing : true,});
+            bibtexify("#bibtex-22", "bibtexify-22", { hideMissing : true,});
+            bibtexify("#bibtex-23", "bibtexify-23", { hideMissing : true,});
+            bibtexify("#bibtex-24", "bibtexify-24", { hideMissing : true,});
+            bibtexify("#bibtex-25", "bibtexify-25", { hideMissing : true,});
           });
       })(jQuery);
   });
