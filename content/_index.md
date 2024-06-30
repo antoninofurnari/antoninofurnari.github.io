@@ -94,7 +94,12 @@ Publications
 <h1> News </h1>
 <div class="overflow">
 <ul>
-<li>September 2023: The [EXTRA-EYE](https://sites.google.com/view/extraeye) project has officially started!</li>
+<li>May 2024: Serving as an Area Chair for NeurIPS 2024 - Benchmarks and Datasets Track</li>
+<li>June 2024: Serving as an Area Chair for WACV 2025</li>
+<li>March 2024: Three papers accepted at CVPR! (1 oral + 2 posters)</li>
+<li>March 2024: I'll serve as Program Chair of the <a href="http://visapp.scitevents.org">VISAPP 2025</a> Conference</li>
+<li>November 2023: The <a href="https://sites.google.com/view/prin-pnrr-team">TEAM</a> project has officially started!</li>
+<li>September 2023: The <a href="https://sites.google.com/view/extraeye">EXTRA-EYE</a> project has officially started!</li>
 <li>September 2023: Giving a <a href="https://www.antoninofurnari.it/talks/iciap2023/">tutorial on Egocentric Vision</a> at <a href="">ICIAP 2023</a></li>
 <li>September 2023: Winners of the <a href="https://iplab.dmi.unict.it/MECCANO/challenge.html">2023 MECCANO Challenge</a> Announced</li>
 <li>August 2023: Serving as an Area Chair for WACV 2024</li>
