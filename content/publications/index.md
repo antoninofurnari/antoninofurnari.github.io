@@ -44,7 +44,7 @@ doi = {    },
 
 @article{Mazzamuto2023learning,
   year = { 2024 },
-  pdf = { publications/mazzamuto2023learning.pdf },
+  pdf = { https://www.antoninofurnari.it/downloads/publications/mazzamuto2023learning.pdf },
   url = { https://dl.acm.org/doi/10.1145/3647999 },
   title = { Learning to Detect Attended Objects in Cultural Sites with Gaze Signals and Weak Object Supervision },
   journal = {  Journal on Computing and Cultural Heritage (JOCCH) },
@@ -104,7 +104,6 @@ doi = {    },
 }
 
 @inproceedings{flaborea2024PREGO,
-  pdf = {  },
   year = { 2024 },
   booktitle = {  Conference on Computer Vision and Pattern Recognition (CVPR)  },
   title = {  PREGO: online mistake detection in PRocedural EGOcentric videos  },
@@ -112,7 +111,7 @@ doi = {    },
 }
 
 @inproceedings{yaar2023finding,
-  pdf = { publications/forte2024world-map.pdf },
+  pdf = { https://www.antoninofurnari.it/downloads/publications/forte2024world-map.pdf },
   year = { 2024 },
   booktitle = {  International Conference on Computer Vision Theory and Applications (VISAPP)  },
   title = {  World-map misalignment detection for visual navigation systems  },
@@ -146,7 +145,7 @@ doi = {https://doi.org/10.1016/j.cviu.2023.103763},
 }
 
 @inproceedings{seminara2023toolforacquisition,
-  pdf = {publications/seminara2023toolforacquisition.pdf},
+  pdf = {https://www.antoninofurnari.it/downloads/publications/seminara2023toolforacquisition.pdf},
   author = {Luigi Seminara and Francesco Ragusa and Rosario Leonardi and Giovanni Maria Farinella and Antonino Furnari},
   title = {An AR-Based Tool for Acquisition and Automatic Labeling of Human-Object Interactions From First Person Vision},
   booktitle = {IEEE Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)},
@@ -169,7 +168,6 @@ url={https://iplab.dmi.unict.it/stillfast/}
 }
 
 @inproceedings{strano2024GPT-Assist,
-  pdf = {  },
   year = { 2024 },
   booktitle = {  International Conference on Image Processing and Video Engineering (IMPROVE)  },
   title = {  GPT-Assist: Zero-Shot Conversational Assistance in Industrial Domains Exploiting Large Language Models  },
@@ -366,7 +364,7 @@ pdf = {https://arxiv.org/pdf/2106.11650.pdf}
 }</p>
 <p>@inproceedings{dimauro2021unsupervised,
 year = {2021},
-pdf = {dimauro2021unsupervised.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/dimauro2021unsupervised.pdf},
 url = {https://iplab.dmi.unict.it/EGO-CH-LOC-UDA/},
 booktitle = {In International Conference on Computer Vision Theory and Applications (VISAPP)},
 author = {Daniele Di Mauro and Antonino Furnari and Giovanni Signorello and Giovanni Maria Farinella},
@@ -403,7 +401,7 @@ title = {The MECCANO Dataset: Understanding Human-Object Interactions from Egoce
 year = {2020},
 booktitle = {International Conference on Pattern Recognition (ICPR)},
 title = {Semantic Object Segmentation in Cultural Sites using Real and Synthetic Data},
-pdf = {ICPR2020_Segmentation_CR.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/ICPR2020_Segmentation_CR.pdf},
 url = {https://iplab.dmi.unict.it/EGO-CH-OBJ-SEG/},
 author = {Francesco Ragusa and Daniele Di Mauro and Alfio Palermo and Antonino Furnari and Giovanni Maria Farinella}
 }</p>
@@ -479,14 +477,14 @@ pages={4021-4036}
 }</p>
 <p>@inproceedings{moller2020face,
 author = {Ronja Möller, Antonino Furnari1, Sebastiano Battiato1,Aki Härmä, and Giovanni Maria Farinella},
-pdf = {moller2020face.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/moller2020face.pdf},
 title = {Face Analysis and Body LanguageUnderstanding from Egocentric Cameras},
 booktitle = {SMARTPHIL - First Workshop on Personal Health Interfaces, in conjunction with ACM IUI},
 year = {2020},
 }</p>
 <p>@inproceedings{rodin2020scene,
 author = {Ivan Rodin and Antonino Furnari and Dimitrios Mavroeidis and Giovanni Maria Farinella},
-pdf = {rodin2020scene.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/rodin2020scene.pdf},
 title = {Scene Understanding and Interaction Anticipation from First Person Vision},
 booktitle = {SMARTPHIL - First Workshop on Personal Health Interfaces, in conjunction with ACM IUI},
 year = {2020},
@@ -494,7 +492,7 @@ year = {2020},
 <p>@article{orlando2020egocentric,
 author = {S. Orlando and A. Furnari and G. M. Farinella},
 url = {https://iplab.dmi.unict.it/SimulatedEgocentricNavigations/},
-pdf = {orlando2020egocentric.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/orlando2020egocentric.pdf},
 year = {2020},
 journal = {Pattern Recognition Letters - Special Issue on Pattern Recognition and Artificial Intelligence Techniques for Cultural Heritage},
 title = {Egocentric Visitor Localization and Artwork Detection inCultural Sites Using Synthetic Data},
@@ -503,7 +501,7 @@ title = {Egocentric Visitor Localization and Artwork Detection inCultural Sites 
 title = {EGO-CH: Dataset and Fundamental Tasks for Visitors Behavioral Understanding using Egocentric Vision},
 journal = {Pattern Recognition Letters - Special Issue on Pattern Recognition and Artificial Intelligence Techniques for Cultural Heritage},
 year = {2020},
-pdf = {ragusa2020egoch.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/ragusa2020egoch.pdf},
 url = {https://iplab.dmi.unict.it/EGO-CH/},
 author = {F. Ragusa and A. Furnari and S. Battiato and G. Signorello and G. M. Farinella},
 }</p>
@@ -511,7 +509,7 @@ author = {F. Ragusa and A. Furnari and S. Battiato and G. Signorello and G. M. F
 year = {2020},
 booktitle = {International Conference on Computer Vision Theory and Applications (VISAPP)},
 title = {Localizing Visitors in Natural Sites Exploiting Modality Attention on Egocentric Images and GPS Data},
-pdf = {pasqualino2020localizing.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/pasqualino2020localizing.pdf},
 author = {Giovanni Pasqualino and Stefano Scafiti and Antonino Furnari and Giovanni Maria Farinella},
 }</p>
 <p>@inproceedings{rosano2020comparison,
@@ -519,7 +517,7 @@ year = {2020},
 booktitle = {International Conference on Computer Vision Theory and Applications (VISAPP)},
 title = {A Comparison of Visual Navigation Approaches Based on Localization
 and Reinforcement Learning in Virtual and Real Environments},
-pdf = {rosano2020comparison.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/rosano2020comparison.pdf},
 author = {Marco Rosano},
 }</p>
 <p>@inproceedings{vedi2019,
@@ -548,14 +546,14 @@ issue = {4},
 volume = {31},
 journal = {IEEE Transactions on Circuits and Systems for Video Technology},
 year = {2021},
-pdf = {spera2021egocart.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/spera2021egocart.pdf},
 url = {https://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/},
 author = {Emiliano Spera and Antonino Furnari and Sebastiano Battiato and Giovanni M. Farinella},
 }</p>
 <p>@article{spera2021egocart,
 author = {Emiliano Spera and Antonino Furnari and Sebastiano Battiato and Giovanni M. Farinella},
 url = {https://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/},
-pdf = {spera2021egocart.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/spera2021egocart.pdf},
 year = {2021},
 pages = "1253-1267",
 issue = "4",
@@ -575,7 +573,7 @@ title="Deep Learning for Assistive Computer Vision",
 booktitle="Computer Vision -- ECCV 2018 Workshops",
 year="2019",
 pages="3--14",
-pdf="leo2019deep.pdf"
+pdf="https://www.antoninofurnari.it/downloads/publications/leo2019deep.pdf"
 }</p>
 <p>@inproceedings{furnari2019rulstm,
 title = {What Would You Expect? Anticipating Egocentric Actions With Rolling-Unrolling LSTMs and Modality Attention},
@@ -589,7 +587,7 @@ url = {http://iplab.dmi.unict.it/rulstm}
 title = {Egocentric Action Anticipation by Disentangling Encoding and Inference},
 author = {Antonino Furnari and Giovanni Maria Farinella},
 year = {2019},
-pdf ={furnari2019egocentric.pdf},
+pdf ={https://www.antoninofurnari.it/downloads/publications/furnari2019egocentric.pdf},
 booktitle = {International Conference on Image Processing (ICIP)}
 }</p>
 <p>@inproceedings{ragusa2019egocentricpoint,
@@ -598,7 +596,7 @@ url = {http://iplab.dmi.unict.it/VEDI_POIs/},
 title = {Egocentric Point of Interest Recognition in Cultural Sites},
 booktitle = {International Conference on Computer Vision Theory and Applications (VISAPP)},
 year = {2019},
-pdf = {ragusa2019point.pdf}
+pdf = {https://www.antoninofurnari.it/downloads/publications/ragusa2019point.pdf}
 }</p>
 <p>@inproceedings{orlando2019imagebased,
 author = {S. A. Orlando and A. Furnari and S. Battiato and G. M. Farinella},
@@ -606,14 +604,14 @@ url = {http://iplab.dmi.unict.it/SimulatedEgocentricNavigations/},
 title = {Image-Based Localization with Simulated Egocentric Navigations},
 booktitle = {International Conference on Computer Vision Theory and Applications (VISAPP)},
 year = {2019},
-pdf={orlando2019image.pdf}
+pdf={https://www.antoninofurnari.it/downloads/publications/orlando2019image.pdf}
 }</p>
 <p>@inproceedings{milotta2019visitors,
 author = {F. L. M. Milotta and A. Furnari and S. Battiato and M. De Salvo and G. Signorello and G. M. Farinella},
 title = {Visitors Localization in Natural Sites Exploiting EgoVision and GPS},
 booktitle = {International Conference on Computer Vision Theory and Applications (VISAPP)},
 year = {2019},
-pdf ={milotta2019visitors.pdf}
+pdf ={https://www.antoninofurnari.it/downloads/publications/milotta2019visitors.pdf}
 }</p>
 <p>@inproceedings{dimauro2018avss,
 author = {D. Di Mauro and A. Furnari and G. Patanè and S. Battiato and G. M. Farinella},
@@ -635,7 +633,7 @@ doi = {https://doi.org/10.1145/3276772}
 }</p>
 <p>@inproceedings{furnari2018Leveraging,
 year = "2018",
-pdf = {furnari2018Leveraging.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/furnari2018Leveraging.pdf},
 booktitle = {International Workshop on Egocentric Perception, Interaction and Computing (EPIC) in conjunction with ECCV},
 title = {Leveraging Uncertainty to Rethink Loss Functions and Evaluation Measures for Egocentric Action Anticipation},
 author = {A. Furnari and S. Battiato and G. M. Farinella},
@@ -648,7 +646,7 @@ year = "2018",
 volume="24",
 issue="5",
 doi="10.1117/1.JEI.27.5.051230",
-pdf = "guarnera2018forensic.pdf",
+pdf = "https://www.antoninofurnari.it/downloads/publications/guarnera2018forensic.pdf",
 url = "http://iplab.dmi.unict.it/graphj/",
 author = "Luca Guarnera and Giovanni Maria Farinella and Antonino Furnari and Angelo Salici and Claudio Ciampini and Vito Matranga and Sebastiano Battiato"
 }</p>
@@ -665,7 +663,7 @@ pdf = {https://arxiv.org/pdf/1804.02748.pdf}
 <p>@inproceedings{spera2018egocentric,
 author = {Emiliano Spera and Antonino Furnari and Sebastiano Battiato and Giovanni Maria Farinella},
 title = {Egocentric Shopping Cart Localization},
-pdf = {spera2018egocentric.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/spera2018egocentric.pdf},
 url = {http://iplab.dmi.unict.it/EgocentricShoppingCartLocalization/},
 booktitle = {International Conference on Pattern Recognition (ICPR)},
 year = {2018},
@@ -674,7 +672,7 @@ year = {2018},
 title = "Personal-Location-Based Temporal Segmentation of Egocentric Video for Lifelogging Applications",
 journal = "Journal of Visual Communication and Image Representation",
 year = "2018",
-pdf = "furnari2018personal.pdf",
+pdf = "https://www.antoninofurnari.it/downloads/publications/furnari2018personal.pdf",
 url = "http://iplab.dmi.unict.it/PersonalLocationSegmentation/",
 author = "Antonino Furnari and Sebastiano Battiato and Giovanni Maria Farinella",
 issn = "1047-3203",
@@ -687,14 +685,14 @@ author = {F. Ragusa and L. Guarnera and A. Furnari and S. Battiato and G. Signor
 title = {Localization of Visitors for Cultural Sites Management},
 booktitle = {International Conference on Signal Processing and Multimedia Applications (SIGMAP)},
 year = {2018},
-pdf={ragusa2018localization.pdf}
+pdf={https://www.antoninofurnari.it/downloads/publications/ragusa2018localization.pdf}
 }</p>
 <p>@inproceedings{dimauro2018comparison,
 author = {D. Di Mauro and A. Furnari and G. Patane' and S. Battiato and G. M. Farinella},
 title = {A Comparison of Techniques based on Image Classification and Object Detection to Count Cars and Non-Empty Stalls in Parking Spaces},
 booktitle = {International Conference on Signal Processing and Multimedia Applications (SIGMAP)},
 year = {2018},
-pdf={dimauro2018comparison.pdf}
+pdf={https://www.antoninofurnari.it/downloads/publications/dimauro2018comparison.pdf}
 }</p>
 <p>@article{Santarcangelo2018VMBA,
 doi = {https://doi.org/10.1016/j.patrec.2018.06.010},
@@ -706,14 +704,14 @@ issue = {1},
 pages= {83-90},
 journal = {Pattern Recognition Letters},
 title = {Market Basket Analysis from Egocentric Videos},
-pdf = {santarcangelo2018market.pdf}
+pdf = {https://www.antoninofurnari.it/downloads/publications/santarcangelo2018market.pdf}
 }</p>
 <p>@inproceedings{spera2018egocentricRTSI,
 author = {E. Spera and A. Furnari and S. Battiato and G. M. Farinella},
 title = {Performance Comparison of Methods Based on Image Retrieval and Direct Regression for Egocentric Shopping Cart Localization},
 booktitle = {IEEE International Forum on Research and Technologies for Society and Industry},
 year = {2018},
-pdf={spera2018egocentricRTSI.pdf}
+pdf={https://www.antoninofurnari.it/downloads/publications/spera2018egocentricRTSI.pdf}
 }</p>
 <p>@Article{furnari2017distortion,
 title = "Distortion Adaptive Sobel Filters for the Gradient Estimation of Wide Angle Images",
@@ -724,7 +722,7 @@ month = "July",
 year = "2017",
 doi = "10.1016/j.jvcir.2017.03.019",
 author = "Antonino Furnari and Giovanni Maria Farinella and Arcangelo Ranieri Bruna and Sebastiano Battiato",
-pdf = {furnari2017distortion.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/furnari2017distortion.pdf},
 url ="http://iplab.dmi.unict.it/DASF/"
 }
 s
@@ -732,7 +730,7 @@ s
 author = {Antonino Furnari and Sebastiano Battiato and Kristen Grauman and Giovanni Maria Farinella},
 url = {http://iplab.dmi.unict.it/NextActiveObjectPrediction/},
 doi = {https://doi.org/10.1016/j.jvcir.2017.10.004},
-pdf = {furnari2017next.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/furnari2017next.pdf},
 issn = {1047-3203},
 year = {2017},
 pages = {401 - 411},
@@ -747,7 +745,7 @@ title     = "How Shall we Evaluate Egocentric Action Recognition?",
 booktitle = "International Workshop on Egocentric Perception, Interaction and Computing (EPIC) in conjunction with ICCV",
 year      = "2017",
 url       = "http://iplab.dmi.unict.it/EgoActionEvaluation/",
-pdf       = "furnari2017how.pdf"
+pdf       = "https://www.antoninofurnari.it/downloads/publications/furnari2017how.pdf"
 }</p>
 <p>@Article{battiato2015integrated,
 author  = {Sebastiano Battiato and Giovanni Maria Farinella and Antonino Furnari and Giovanni Puglisi and Anique Snijders and Jelmer Spiekstra},
@@ -758,7 +756,7 @@ volume  = {42},
 number  = {21},
 pages   = {7263--7275},
 doi = {10.1016/j.eswa.2015.05.055},
-pdf = {battiato2015integrated.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/battiato2015integrated.pdf},
 url = {http://www.sciencedirect.com/science/article/pii/S0957417415003917}
 }</p>
 <p>@Article{furnari2017recognizing,
@@ -771,7 +769,7 @@ number={1},
 pages={6-18},
 doi={10.1109/THMS.2016.2612002},
 ISSN={2168-2291},
-pdf = {furnari2017recognizing.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/furnari2017recognizing.pdf},
 url = {http://iplab.dmi.unict.it/PersonalLocations/}
 }</p>
 <p>@Article{furnari2017affine,
@@ -784,7 +782,7 @@ number={2},
 pages={696-710},
 doi={10.1109/TIP.2016.2627816},
 ISSN={1057-7149},
-pdf = {furnari2017affine.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/furnari2017affine.pdf},
 url = {http://iplab.dmi.unict.it/FisheyeAffine/}
 }</p>
 <p>%%% CONFERENCES %%%</p>
@@ -802,7 +800,7 @@ title={Vehicle tracking based on customized template matching},
 year={2014},
 volume={2},
 pages={755-760},
-pdf = {battiato2014vehicle.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/battiato2014vehicle.pdf},
 url = {http://ieeexplore.ieee.org/document/7295012/?reload=true&amp;arnumber=7295012}
 }</p>
 <p>@InProceedings{furnari2014affine,
@@ -812,7 +810,7 @@ year      = {2014},
 booktitle = {IEEE International Conference on Image Processing, Paris, France, October 27-30},
 doi       = {10.1109/ICIP.2014.7026149},
 pages     = {5681--5685},
-pdf = {furnari2014affine.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/furnari2014affine.pdf},
 url = {http://iplab.dmi.unict.it/FisheyeAffine/}
 }</p>
 <p>@InProceedings{furnari2014experimental,
@@ -825,7 +823,7 @@ pages     = {806-821},
 series    = {Lecture Notes in Computer Science},
 volume    = {8927},
 publisher = {Springer Lecture Notes in Computer Science},
-pdf = {furnari2014experimental.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/furnari2014experimental.pdf},
 url = {https://link.springer.com/chapter/10.1007/978-3-319-16199-0_56}
 }</p>
 <p>@InProceedings{furnari2015generalized,
@@ -834,7 +832,7 @@ title     = {Generalized Sobel Filters for Gradient Estimation of Distorted Imag
 year      = {2015},
 pages={3250-3254},
 booktitle = {IEEE International Conference on Image Processing (ICIP), Quebec, Canada, September 27-30},
-pdf = {furnari2015generalized.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/furnari2015generalized.pdf},
 url={http://iplab.dmi.unict.it/DASF/}
 }</p>
 <p>@InProceedings{furnari2015distortion,
@@ -847,7 +845,7 @@ volume    = {9280},
 series    = {Lecture Notes in Computer Science},
 pages     = {205--215},
 doi       = {10.1007/978-3-319-23234-8_20},
-pdf = {furnari2015distortion.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/furnari2015distortion.pdf},
 url={http://iplab.dmi.unict.it/DASF/}
 }</p>
 <p>@InProceedings{furnari2015recognizing,
@@ -856,7 +854,7 @@ title     = {Recognizing Personal Contexts from Egocentric Images},
 page      = {393--401},
 booktitle = {Workshop on Assistive Computer Vision and Robotics (ACVR) in conjunction with ICCV, Santiago, Chile, December 12},
 year      = {2015},
-pdf = {furnari2015recognizing.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/furnari2015recognizing.pdf},
 url = {http://iplab.dmi.unict.it/PersonalLocations/}
 }</p>
 <p>@InProceedings{furnari2016temporal,
@@ -868,7 +866,7 @@ volume    = {9913},
 series    = {Lecture Notes in Computer Science},
 publisher = {Springer Lecture Notes in Computer Science},
 year      = {2016},
-pdf = {furnari2016temporal.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/furnari2016temporal.pdf},
 url = {http://iplab.dmi.unict.it/PersonalLocationSegmentation/}
 }</p>
 <p>@InProceedings{ragusa2016food,
@@ -878,7 +876,7 @@ booktitle = {International Workshop on Multimedia Assisted Dietary Management (M
 year      = {2016},
 pages = {77--81},
 doi = {10.1145/2986035.2986041},
-pdf = {ragusa2016food.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/ragusa2016food.pdf},
 url = {http://iplab.dmi.unict.it/demofood}
 }</p>
 <p>@Misc{scandura2014image,
@@ -893,14 +891,14 @@ author    = {Francesco Ragusa and Antonino Furnari and Giovanni Maria Farinella}
 title     = {Understanding Food Images to Recommend Utensils During Meals},
 booktitle = {International Workshop on Multimedia Assisted Dietary Management (MADiMA) in conjunction with ICIAP, Catania, Italy, September 11-15},
 year      = {2017},
-pdf = {ragusa2017understanding.pdf}
+pdf = {https://www.antoninofurnari.it/downloads/publications/ragusa2017understanding.pdf}
 }</p>
 <p>@InProceedings{guarnera2017graphj,
 author    = {L. Guarnera and G. M. Farinella and A. Furnari and A. Salici and C. Ciampini and V. Matranga and S. Battiato},
 title     = {GRAPHJ: A Forensics Tool for Handwriting Analysis},
 booktitle = {International Conference on Image Analysis and Processing (ICIAP), Catania, Italy, September 11-15},
 year      = {2017},
-pdf = {guarnera2017graph.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/guarnera2017graph.pdf},
 url = {http://iplab.dmi.unict.it/graphj/}
 }</p>
 <p>@InProceedings{Battiato2016,
@@ -923,7 +921,7 @@ volume = {62},
 pages = {234 - 244},
 year = {2019},
 issn = {1047-3203},
-pdf = {dimauro2019estimating.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/dimauro2019estimating.pdf},
 }</p>
 </pre>
 
