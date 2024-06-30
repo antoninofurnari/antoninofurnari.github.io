@@ -102,6 +102,8 @@ Promptly identifying procedural errors from egocentric videos in an online setti
 
 <a href="https://github.com/aleflabo/PREGO">Web Page</a>
 
+<br><br><br><br><br>
+
 ### An Outlook into the Future of Egocentric Vision
 <table id="bibtexify-21" class="display"></table>
 <pre id="bibtex-21" class="raw-bibtex js-hidden">
@@ -192,12 +194,23 @@ title = {The MECCANO Dataset: Understanding Human-Object Interactions from Egoce
 }
 </pre>
 
+<table id="bibtexify-25" class="display"></table>
+<pre id="bibtex-25" class="raw-bibtex js-hidden">
+@article{ragusa2023meccano,
+  year = {2023},
+  title = {MECCANO: A Multimodal Egocentric Dataset for Humans Behavior Understanding in the Industrial-like Domain},
+  journal = {Computer Vision and Image Understanding (CVIU)},
+  author = {Francesco Ragusa and Antonino Furnari and Giovanni Maria Farinella},
+  url = {https://arxiv.org/abs/2209.08691}
+}
+</pre>
+
 <img src="meccano.png" class='pull-left' width=500>
 In this work, we introduce MECCANO, the first dataset of egocentric videos to study human-object interactions in industrial-like settings. MECCANO has been acquired by 20 participants who were asked to build a motorbike model, for which they had to interact with tiny objects and tools. The dataset has been explicitly labeled for the task of recognizing human-object interactions from an egocentric perspective. Specifically, each interaction has been labeled both temporally (with action segments) and spatially (with active object bounding boxes). With the proposed dataset, we investigate four different tasks including 1) action recognition, 2) active object detection, 3) active object recognition and 4) egocentric human-object interaction detection, which is a revisited version of the standard human-object interaction detection task. Baseline results show that the MECCANO dataset is a challenging benchmark to study egocentric human-object interactions in industrial-like scenarios.
 
 <a href="https://iplab.dmi.unict.it/MECCANO/" target="_blank">Web Page</a>
 
-### Future Predictions From First-Person (Egocentric) Vision Survey
+### Future Predictions From First-Person (Egocentric) Vision
 <table id="bibtexify-19" class="display"></table>
 <pre id="bibtex-19" class="raw-bibtex js-hidden">
 @article{rodin2021predicting,
