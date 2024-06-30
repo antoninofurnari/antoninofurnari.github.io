@@ -102,7 +102,7 @@ Promptly identifying procedural errors from egocentric videos in an online setti
 
 <a href="https://github.com/aleflabo/PREGO">Web Page</a>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 ### An Outlook into the Future of Egocentric Vision
 <table id="bibtexify-21" class="display"></table>
