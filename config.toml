@@ -16,6 +16,7 @@ university = "University of Catania"
 email = "antonino.furnari@unict.it"
 domain = "www.antoninofurnari.it"
 TranslateDomain = "www-antoninofurnari-it"
+description = "Antonino Furnari's website"
 
 ## Set one of:
 # gravatar = "soho@example.com"
