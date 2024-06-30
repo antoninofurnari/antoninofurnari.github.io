@@ -14,8 +14,8 @@ university = "University of Catania"
 #address1 = "Department of Mathematics and Computer Science"
 #address2 = "Viale A. Doria 6 - 95125, Catania, Italy"
 email = "antonino.furnari@unict.it"
-domain = "antoninofurnari.github.io"
-TranslateDomain = "antoninofurnari-github-io"
+domain = "www.antoninofurnari.github.io"
+TranslateDomain = "www-antoninofurnari-github-io"
 description = "Antonino Furnari's website"
 
 ## Set one of:
@@ -108,4 +108,7 @@ themeColor = "#0078bd"
   lineNumbersInTable = true
   noClasses = false # if false, you need to provide you own custom CSS
   style = "native"
-  tabWid
+  tabWidth = 4
+
+[markup.goldmark.renderer]
+  unsafe= true
