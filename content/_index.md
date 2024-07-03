@@ -95,9 +95,10 @@ Publications
 <h1> News </h1>
 <div class="overflow">
 <ul>
-<li>May 2024: Serving as an Area Chair for NeurIPS 2024 - Benchmarks and Datasets Track</li>
-<li>June 2024: Serving as an Area Chair for WACV 2025</li>
-<li>March 2024: Three papers accepted at CVPR! (1 oral + 2 posters)</li>
+<li>July 2024: Three papers accepted at <a href="http://eccv2024.ecva.net">ECCV 2024!</a></li>
+<li>May 2024: Serving as an Area Chair for <a href="https://neurips.cc">NeurIPS 2024</a> - Benchmarks and Datasets Track</li>
+<li>June 2024: Serving as an Area Chair for <a href="https://wacv2025.thecvf.com">WACV 2025</a></li>
+<li>March 2024: Three papers accepted at <a href="http://cvpr.thecvf.com">CVPR 2024</a>! (1 oral + 2 posters)</li>
 <li>March 2024: I'll serve as Program Chair of the <a href="http://visapp.scitevents.org">VISAPP 2025</a> Conference</li>
 <li>November 2023: The <a href="https://sites.google.com/view/prin-pnrr-team">TEAM</a> project has officially started!</li>
 <li>September 2023: The <a href="https://sites.google.com/view/extraeye">EXTRA-EYE</a> project has officially started!</li>
