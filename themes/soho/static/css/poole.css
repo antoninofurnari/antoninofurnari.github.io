@@ -170,6 +170,10 @@ pre {
   white-space: pre;
   background-color: #fff;
 }
+
+ul {
+  margin-bottom: 0.5rem;
+}
 pre code {
   padding: 0;
   font-size: 100%;
@@ -250,14 +254,35 @@ tbody tr:nth-child(odd) th {
  */
 
 .role {
-  font-size: 1rem;
-  font-weight: bold;
-  margin-bottom: 0.3rem;
+  /*font-size: 1rem;*/
+  /*font-weight: bold;*/
+  margin-bottom: 0.5rem;
+  margin-top: 0rem;
+  color:white;
+  font-size: 1.1rem; 
 }
 
 .university {
   font-size: 1rem;
-  font-weight: 300;
+  font-weight: bold;
+  margin: 0;
+}
+
+.department {
+  font-size: 0.8rem;
+  margin-bottom: 0.3rem;
+  margin-top: 0.3rem;
+  border-left:solid;
+  padding-left:0.5rem;
+}
+
+.laboratory {
+  font-size: 0.75rem;
+  margin: 0;
+}
+
+.group {
+  font-size: 0.5rem;
   margin: 0;
 }
 

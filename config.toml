@@ -9,8 +9,18 @@ enableEmoji = true
 
 [params]
 author = "Antonino Furnari"
-role = "Assistant Professor"
+role = "T. Track Asst. Professor"
 university = "University of Catania"
+university_url = "https://www.unict.it/"
+department = "Department of Mathematics and Computer Science"
+department_url = "https://web.dmi.unict.it/"
+laboratory = "Image Processing Laboratory"
+laboratory_url = "https://iplab.dmi.unict.it/"
+group = "First Person Vision Group"
+group_url = "https://iplab.dmi.unict.it/fpv"
+scholar_url = "https://scholar.google.it/citations?user=eXREn_EAAAAJ&hl=it"
+spinoff = "Next Vision s.r.l."
+spinoff_url = "https://www.nextvisionlab.it/"
 #address1 = "Department of Mathematics and Computer Science"
 #address2 = "Viale A. Doria 6 - 95125, Catania, Italy"
 email = "antonino.furnari@unict.it"
@@ -37,20 +47,27 @@ themeColor = "#0078bd"
 #customJs = ["js/blog.js"]
 
   ## Set as many as you want.
-  #[[params.socialIcons]]
-  #icon = "fa-linkedin"
-  #title = "Linkedin"
-  #url = "#"
+  [[params.socialIcons]]
+  icon = "fab fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/anfurnari"
 
   [[params.socialIcons]]
-  icon = "fa-github"
+  icon = "fab fa-linkedin"
+  title = "Linkedin"
+  url = "https://www.linkedin.com/in/antonino-furnari-8ba3b5291/"
+
+  [[params.socialIcons]]
+  icon = "fab fa-github"
   title = "GitHub"
   url = "https://github.com/antoninofurnari"
 
   [[params.socialIcons]]
-  icon = "fa-twitter"
-  title = "Twitter"
-  url = "https://twitter.com/anfurnari"
+  icon = "fa-solid fa-envelope"
+  title = "email"
+  url = "mailto:antonino.furnari@unict.it"
+
+  
 
 [menu]
 

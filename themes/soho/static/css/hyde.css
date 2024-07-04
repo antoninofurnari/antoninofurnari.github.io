@@ -48,6 +48,7 @@ html {
 @media (max-width: 50em) {
   table.twitter-sidebar td {
     display:block;
+    padding-left: 8px;
   }
 }
 
@@ -95,7 +96,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-size: 1.5rem;
+  font-size: 1.5rem; 
   font-weight: bold;
 }
 
@@ -221,7 +222,12 @@ ul.posts {
 
 .social-icons,
 .sidebar nav {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
+}
+
+.social-icons {
+  margin-top: -1rem;
+  margin-bottom: 0.5rem;
 }
 
 ul.posts li,
@@ -237,7 +243,7 @@ ul.posts li,
 
 @media (min-width: 58rem) {
   .social-icons a {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 
   ul.posts li,
@@ -413,6 +419,7 @@ table.twitter-sidebar td {
   vertical-align: top;
   background-color: white!important;
   border:none!important;
+  max-width:100%;
 }
 
 table.twitter-sidebar {
@@ -420,7 +427,7 @@ table.twitter-sidebar {
 }
 
 td.side {
-  width:400px;
+  width:450px;
 }
 
 td.side {
@@ -434,8 +441,16 @@ img.unict {
   margin-right: -20px;
   height:100px;*/
 
-  margin-top: 20px;
-  width: 180px;
+  /* margin-top: 20px; */
+  width: 150px;
+  display: inline;
+}
+
+img.iplab {
+  width:60px;
+  display: inline;
+  margin-left: 1rem;
+  padding-bottom: 0.3rem;
 }
 
 h1 {
@@ -600,11 +615,11 @@ ul.breadcrumb li.is-active {
 }
 
 #fold_button::after {
-  content: "\00d7";
+  content: "\2190"; 
 }
 
 .hidden #fold_button::after {
-  content: "\2794";
+  content: "\2192";
 }
 
 .hidden {
@@ -638,4 +653,9 @@ blockquote.note {
   ul.breadcrumb + hr {
     display: none;
   }
+}
+
+.overflow {
+  overflow: auto;
+  height: 500px;
 }
