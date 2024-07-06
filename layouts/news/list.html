@@ -1,0 +1,6 @@
+
+{{ define "main" }}
+  <h1>News</h1>
+  {{ partial "news-list.html" (sort .Pages "Date" "desc") }}
+{{ end }}
+

@@ -1,0 +1,8 @@
+<table class="news">
+{{ range . }}
+<tr>
+    <td><b>{{ .Date.Format "Jan 2006" }}</b></td>
+    <td>{{ .Content }}</td>
+</tr>
+{{ end }}
+</table>
