@@ -14,7 +14,7 @@ disable_share: true
 <p>I am part of the <a target="_blank" href="http://iplab.dmi.unict.it">Image Processing Laboratory</a> and the <a target="_blank" href="http://iplab.dmi.unict.it/fpv/">FPV@IPLAB research group</a>, and co-founder of <a href="https://www.nextvisionlab.it">Next Vision</a>.
 I am part of the <a target="_blank" href="https://epic-kitchens.github.io/">EPIC-KITCHENS</a>, <a href="https://ego4d-data.org/" target="_blank">EGO4D</a> and <a href="https://ego-exo4d-data.org/" target="_blank">EGO-EXO4D</a> teams. I am an <a href="https://ellis.eu">ELLIS member</a> and an <a href="https://www.ieee.org">IEEE Senior Member</a>.</p>
 
-<p>I teach a Bachelor course on <a href="/teaching/prog1/"> Computer Programming</a> and a Master course on <a href="">Fundamentals of Data Analysis</a> for which I proudly share open source notes <a href="https://antoninofurnari.github.io/fadlecturenotes/">here</a>. I supervised more than 30 bachelor and master theses and supervised/currently supervising 5 PhD students.</p>
+<p>I teach a Bachelor course on <a href="/teaching/prog1/"> Computer Programming</a> and a Master course on Fundamentals of Data Analysis for which I proudly share open source notes <a href="https://antoninofurnari.github.io/fadlecturenotes/">here</a>. I supervised more than 30 bachelor and master theses and supervised/currently supervising 5 PhD students.</p>
 
 <p>I am passionate about making things work, understanding what great minds have discovered in the past and are discovering in the present, and humbly contributing to shaping the technology of the future.</p>
 

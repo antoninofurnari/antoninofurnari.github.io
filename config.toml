@@ -8,7 +8,7 @@ summarylength = 10
 enableEmoji = true
 
 [params]
-  mainSections = ["news"]
+  mainSections = ["news", "research"]
 author = "Antonino Furnari"
 role = "T. Track Asst. Professor"
 university = "University of Catania"
@@ -26,7 +26,7 @@ spinoff_url = "https://www.nextvisionlab.it/"
 #address2 = "Viale A. Doria 6 - 95125, Catania, Italy"
 email = "antonino.furnari@unict.it"
 domain = "www.antoninofurnari.github.io"
-TranslateDomain = "www-antoninofurnari-github-io"
+TranslateDomain = "antoninofurnari-github-io"
 description = "Antonino Furnari's website"
 
 ## Set one of:

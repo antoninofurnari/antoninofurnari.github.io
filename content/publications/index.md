@@ -6,6 +6,32 @@ disable_share: true
 <table id="bibtexify-e50c0b8366-" class="display"></table>
 <pre id="bibtex-e50c0b8366-" class="raw-bibtex js-hidden">
 
+@inproceedings{quattrocchi2024synchronization,
+  pdf = { https://arxiv.org/pdf/2312.02638.pdf },
+  year = { 2024 },
+  booktitle = { European Conference on Computer Vision (ECCV) },
+  title = { Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs },
+  author = { Camillo Quattrocchi and Antonino Furnari and Daniele Di Mauro and Mario Valerio Giuffrida and Giovanni Maria Farinella },
+  url = {https://github.com/fpv-iplab/synchronization-is-all-you-need}
+}
+
+@inproceedings{leonardi2024synthetic,
+  pdf = { https://arxiv.org/pdf/2312.02672.pdf },
+  year = { 2024 },
+  booktitle = { European Conference on Computer Vision (ECCV) },
+  title = { Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection? },
+  author = { Rosario Leonardi and Antonino Furnari and Francesco Ragusa and Giovanni Maria Farinella },
+  url = {https://github.com/fpv-iplab/HOI-Synth}
+}
+
+@inproceedings{mur-labadia2024AFF-ttention,
+  pdf = { https://arxiv.org/pdf/2406.01194.pdf },
+  year = { 2024 },
+  booktitle = { European Conference on Computer Vision (ECCV) },
+  title = { AFF-ttention! Affordances and Attention models for Short-Term Object Interaction Anticipation },
+  author = { Lorenzo Mur-Labadia and Ruben Martinez-Cantin and Josechu Guerrero and Giovanni Maria Farinella and Antonino Furnari },
+}
+
 @inproceedings{rodin2023action,
   primaryclass = { cs.CV },
   archiveprefix = { arXiv },
@@ -541,7 +567,7 @@ title = {VEDI: Vision Exploitation for Data Interpretation},
 author = {G. M. Farinella and G. Signorello and S. Battiato and A. Furnari and F. Ragusa and R. Leonardi and E. Ragusa and E. Scuderi and A. Lopes and L. Santo and M. Samarotto},
 }</p>
 <p>@article{milotta2019egocentric,
-pdf = {milotta2019egocentric.pdf},
+pdf = {https://www.antoninofurnari.it/downloads/publications/milotta2019egocentric.pdf},
 author = {Filippo L.M. Milotta and Antonino Furnari and Sebastiano Battiato and Giovanni Signorello and Giovanni M. Farinella},
 url = {https://iplab.dmi.unict.it/EgoNature/},
 doi = {https://doi.org/10.1016/j.jvcir.2019.102664},

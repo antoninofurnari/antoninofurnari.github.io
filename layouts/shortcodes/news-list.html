@@ -1,2 +1,2 @@
-{{ $pages := first 5 (sort (where .Site.RegularPages "Section" "news") "Date" "desc") }}
+{{ $pages := first 10 (sort (where .Site.RegularPages "Section" "news") "Date" "desc") }}
 {{ partial "news-list.html" $pages }}
