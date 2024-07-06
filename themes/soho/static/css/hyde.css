@@ -659,3 +659,30 @@ blockquote.note {
   overflow: auto;
   height: 500px;
 }
+
+
+table.news td {
+  background-color: white!important;
+  border:none;
+  padding-left:0!important;
+}
+
+table.news tr {
+  border:none;
+  vertical-align: top;
+}
+
+table.news {
+  border:none;
+  margin-bottom: 0;
+}
+
+table.news tr td{
+  min-width: 6rem;
+}
+
+.external-link-icon {
+  margin-left: 4px;
+  font-size: 0.8em;
+  background: url("/images/link.png") right center no-repeat;
+}

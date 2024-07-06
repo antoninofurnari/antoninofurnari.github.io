@@ -8,6 +8,7 @@ summarylength = 10
 enableEmoji = true
 
 [params]
+  mainSections = ["news"]
 author = "Antonino Furnari"
 role = "T. Track Asst. Professor"
 university = "University of Catania"
@@ -35,8 +36,6 @@ profilePicture = "images/profile.jpg"
 copyright = "Antonino Furnari"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
-#license = "CC BY-NC-SA 4.0"
-#licenseURL = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
 
 ## Set custom theme color.
 #themeColor = "#1c1c1c"
@@ -133,5 +132,10 @@ themeColor = "#0078bd"
   style = "native"
   tabWidth = 4
 
-[markup.goldmark.renderer]
-  unsafe= true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.goldmark.renderHooks]
+    [markup.goldmark.renderHooks.link]
+      enableDefault = true
