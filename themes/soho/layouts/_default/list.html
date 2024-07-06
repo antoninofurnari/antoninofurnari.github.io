@@ -2,7 +2,7 @@
 <ul class="posts">
   <h1 class="title">{{ .Title }} 
     {{ if eq .Params.note.lang "ita"}}
-    <a style="text-decoration: none;" href="https://{{.Site.Params.TranslateDomain}}.translate.goog{{$.Permalink}}?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=it&_x_tr_pto=wapp">🇬🇧</a>
+    <a style="text-decoration: none;" href="https://{{.Site.Params.TranslateDomain}}.translate.goog{{$.RelPermalink}}?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=it&_x_tr_pto=wapp">🇬🇧</a>
     {{ end }}
   </h1>
   <!-- {{ range .Data.Pages -}}
