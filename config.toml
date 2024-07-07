@@ -77,6 +77,12 @@ themeColor = "#0078bd"
   url = "/research/"
 
   [[menu.main]]
+  name = "✍️ Academic Service"
+  weight = 100
+  identifier = "academic-service"
+  url = "/academic-service/"
+
+  [[menu.main]]
   name = "🧑‍🎓 Teaching"
   identifier = "teaching"
   weight = 200
