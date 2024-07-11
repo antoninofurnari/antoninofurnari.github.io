@@ -145,7 +145,9 @@ doi = {    },
   booktitle = {  Conference on Computer Vision and Pattern Recognition (CVPR)  },
   title = {  PREGO: online mistake detection in PRocedural EGOcentric videos  },
   author = { Alessandro Flaborea and Guido D'Amely and Leonardo Plini and Luca Scofano and Edoardo De Matteis and Antonino Furnari and Giovanni Maria Farinella and Fabio Galasso },
-  pdf={https://arxiv.org/pdf/2404.01933}
+  pdf={https://arxiv.org/pdf/2404.01933},
+  url={https://github.com/aleflabo/PREGO?tab=readme-ov-file}
+
 }
 
 @inproceedings{yaar2023finding,

@@ -744,3 +744,51 @@ max-width:100%;
 div.post blockquote {
   display:none;
 }
+
+table.research td.teaser {
+  width:300px;
+}
+
+table.research table.bibtable {
+  width:100%!important;
+  border:none;
+}
+
+table.research > tbody > tr {
+  border-bottom:solid;
+  border-color: lightgray;
+}
+
+table.research tr.odd {
+  color:black;
+  border-left: none;
+}
+
+table.research tr.odd td {
+  padding-left: 0;
+  background-color: white;
+}
+
+table.research table td {
+  border:none;
+}
+
+table.research td {
+  border:none;
+}
+
+table.research tr:nth-child(odd) td {
+  background-color: white;
+}
+
+table.research {
+  border:none;
+}
+
+table.research span.bibtexify-title {
+  font-weight: bold;
+}
+
+table.research span.bibtexify-booktitle {
+  font-style: italic;
+}

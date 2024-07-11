@@ -1,6 +1,27 @@
 {{ range . }}
 <div class="research">
     <h3>{{ .Title }}<!-- <a href="{{.Permalink}}"><i class="fa fa-link" aria-hidden="true"></i></a>--></h3>
+    
+    {{ $id := .File.UniqueID }}
+    {{ range $index, $element := .Params.bibtex }}
+    <table id="bibtexify-{{ $id }}-{{ $index }}" class="display"></table>
+    <pre id="bibtex-{{ $id }}-{{ $index }}" class="raw-bibtex js-hidden">
+        {{ . }}
+    </pre> 
+    {{ end }}
+
+    {{ if .Params.video_teaser }}
+        <div class='pull-left'>
+        <div class="video-container">
+        <iframe src="{{ .Params.teaser}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        </div>
+    {{ else }}
+        <a href="{{ .Params.teaser}}", target="_blank">
+            <img src="{{ .Params.teaser}}" class='pull-left' width=500> 
+        </a>
+    {{ end }}
+
     {{ .Content }}
 </div>
 {{ end }}

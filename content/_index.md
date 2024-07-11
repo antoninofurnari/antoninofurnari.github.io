@@ -107,7 +107,17 @@ Publications
 <a class="twitter-timeline" data-height="1100" data-dnt="true" href="https://twitter.com/anfurnari?ref_src=twsrc%5Etfw">Antonino's Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>-->
 
 
-## News
+## News 
 {{< news-list >}}
 
 <p><a href="/news/">See All News</a></p>
+
+## Research Highlights
+<div class="research">
+{{< research-shorts >}}
+</div>
+
+<p><a href="/research/">See More Details</a></p>
+<p> <a href="/publications/">See All Publications</a></p>
+
+
