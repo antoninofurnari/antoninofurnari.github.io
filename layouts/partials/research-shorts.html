@@ -1,0 +1,53 @@
+<table class="research">
+{{ range . }}
+<tr>
+    <td class="teaser">
+    {{ if .Params.video_teaser }}
+        
+        <div class="video-container">
+        <iframe src="{{ .Params.teaser}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+    {{ else }}
+        <a href="/research/{{ .Params.teaser}}", target="_blank">
+            <img src="/research/{{ .Params.teaser}}"  width=500> 
+        </a>
+    {{ end }}
+    </td>
+    <td>
+
+
+    {{ $id := .File.UniqueID }}
+    {{ range $index, $element := .Params.bibtex }}
+    <table id="bibtexify-{{ $id }}-{{ $index }}" class="display"></table>
+    <pre id="bibtex-{{ $id }}-{{ $index }}" class="raw-bibtex js-hidden">
+        {{ . }}
+    </pre> 
+    {{ end }}
+</td>
+
+</tr>
+{{ end }}
+</table>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        // Select all elements with IDs starting with 'bibtex-'
+        const preElements = document.querySelectorAll('pre[id^="bibtex-"]');
+        
+        // Loop through each 'pre' element
+        preElements.forEach(preElement => {
+            // Extract the identifier (part after 'bibtex-')
+            const idSuffix = preElement.id.substring(7);
+
+            // Construct corresponding table id
+            const tableId = "bibtexify-" + idSuffix;
+
+            // Ensure the corresponding table exists
+            const tableElement = document.getElementById(tableId);
+            if (tableElement) {
+                // Call bibtexify function with the constructed IDs
+                bibtexify("#" + preElement.id, tableId, { hideMissing: true });
+            }
+        });
+    });
+</script>
