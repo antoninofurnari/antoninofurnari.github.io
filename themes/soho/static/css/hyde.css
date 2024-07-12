@@ -693,7 +693,7 @@ table.news tr td{
 }
 
 
-div.research .bibchart, .legend, .dataTables_filter, .bibtable thead, .dataTables_info, .sorting_1, .sorting_2 {
+div.research .bibchart,  .legend, div.research .dataTables_filter, div.research .bibtable thead, div.research .dataTables_info, div.research .sorting_1, div.research .sorting_2 {
   display:none;
 }
 div.research tr.odd {
@@ -741,9 +741,9 @@ max-width:100%;
   border: 0;
 }
 
-div.post blockquote {
+/* div.post blockquote {
   display:none;
-}
+} */
 
 table.research td.teaser {
   width:300px;
@@ -791,4 +791,17 @@ table.research span.bibtexify-title {
 
 table.research span.bibtexify-booktitle {
   font-style: italic;
+}
+
+.bibchart {
+  display:none;
+}
+
+table.bibtable tr:nth-child(odd) td {
+  /* background-color: white; */
+}
+
+table.bibtable tr td {
+  /* background-color: white; */
+  border: none;
 }
