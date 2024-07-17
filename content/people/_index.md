@@ -9,7 +9,8 @@
 * [Camillo Quattrocchi](https://www.linkedin.com/in/camillo-quattrocchi-568772111/), PhD, 2020 - current (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
 * [Rosario Leonardi](https://www.linkedin.com/in/rosario-leonardi-1aa896100/), PhD, 2020 - 2024 (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
 * Giovanni Pasqualino, PhD, 2020 - 2022 (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
-<!--* Marco Rosano, PhD, 2018 - 2022 (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
+<!-- They have me listed as co-supervisor in their thesis but no formal attribution
+* Marco Rosano, PhD, 2018 - 2022 (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
 * Ivan Rodin, PhD, 2018 - 2022 (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)-->
 
 ## Visitor PhD Students
