@@ -1,14 +1,16 @@
 # People
 
-## Current
-* [Luigi Seminara](https://seminaraluigi.altervista.org/), PhD, 2023 - current (Supervisor: Antonino Furnari, Co-supervisor: Giovanni Maria Farinella)
-* Kooshyar Koosari, PhD, 2022 - 2023 (Supervisor: Antonino Furnari, Co-supervisor: Giovanni Maria Farinella)
-* [Claudia Bonanno](https://www.linkedin.com/in/claudia-bonanno-81b1301ab/), PhD, 2022 - current (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
-* [Michele Mazzamuto](https://it.linkedin.com/in/michele-mazzamuto-3b06a6178), PhD, 2021 - current (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
-* [Asfand Yaar](https://www.linkedin.com/in/asfandyaarasif/), PhD, 2021 - current (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
-* [Camillo Quattrocchi](https://www.linkedin.com/in/camillo-quattrocchi-568772111/), PhD, 2020 - current (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
-* [Rosario Leonardi](https://www.linkedin.com/in/rosario-leonardi-1aa896100/), PhD, 2020 - 2024 (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
-* Giovanni Pasqualino, PhD, 2020 - 2022 (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
+## PhD students, as the main supervisor
+* [Luigi Seminara](https://seminaraluigi.altervista.org/), PhD, 2023 - current
+* Kooshyar Koosari, PhD, 2022 - 2023 
+
+## PhD students, as a co-supervisor (w/ Giovanni Maria Farinella)
+* [Claudia Bonanno](https://www.linkedin.com/in/claudia-bonanno-81b1301ab/), PhD, 2022 - current 
+* [Michele Mazzamuto](https://it.linkedin.com/in/michele-mazzamuto-3b06a6178), PhD, 2021 - current 
+* [Asfand Yaar](https://www.linkedin.com/in/asfandyaarasif/), PhD, 2021 - current 
+* [Camillo Quattrocchi](https://www.linkedin.com/in/camillo-quattrocchi-568772111/), PhD, 2020 - current 
+* [Rosario Leonardi](https://www.linkedin.com/in/rosario-leonardi-1aa896100/), PhD, 2020 - 2024 
+* Giovanni Pasqualino, PhD, 2020 - 2022 
 <!-- They have me listed as co-supervisor in their thesis but no formal attribution
 * Marco Rosano, PhD, 2018 - 2022 (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)
 * Ivan Rodin, PhD, 2018 - 2022 (Supervisor: Giovanni Maria Farinella, Co-supervisor: Antonino Furnari)-->
