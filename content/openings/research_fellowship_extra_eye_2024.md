@@ -1,5 +1,11 @@
 # Postdoc / Research Fellow Position in Egocentric Vision at the University of Catania
 
+
+
+<div class="pull-left" style="width:25%">
+<a href="https://sites.google.com/view/extraeye/"><img src="/openings/extraeye.png"></a>
+</div>
+
 We are seeking a highly motivated candidate for a fully funded postdoc position (Italian Assegno di Ricerca) in Egocentric Vision.
 
 The candidate will join the [FPV@IPLAB research group](https://iplab.dmi.unict.it/fpv/), at the [University of Catania, Italy](http://unict.it) and work on topics related to the detection and characterization of human-object interactions from first person (egocentric) videos.

@@ -83,6 +83,12 @@ themeColor = "#0078bd"
   url = "/professional-activities/"
 
   [[menu.main]]
+  name = "🧑‍🤝‍🧑 People"
+  identifier = "people"
+  weight = 200
+  url = "/people/"
+
+  [[menu.main]]
   name = "🧑‍🎓 Teaching"
   identifier = "teaching"
   weight = 200
