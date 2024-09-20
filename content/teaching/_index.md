@@ -12,9 +12,13 @@ Si prega di consultare [questa pagina](/ricevimento)
 # Tesi
 Sono disponibile alla supervisione (contemporanea di un numero limitato) di tesi su argomenti che concernono l'analisi dei dati e in particolare di dati visuali (immagini e video). Si consiglia agli studenti interessanti allo sviluppo di tesi, di contattarmi almeno sei mesi prima della sessione di laurea prevista.
 
+# Anno Accademico 2024/2025
+ * Laboratorio di Programmazione 1: <a href="prog1/2425">Materiale didattico</a>
+ * Fondamenti di Analisi dei Dati: <a href="https://antoninofurnari.github.io/fadlecturenotes/">Materiale didattico</a> - altro materiale didattico disponibile su Teams
+
 # Anno Accademico 2023/2024
  * Laboratorio di Programmazione 1: <a href="prog1/2324">Materiale didattico</a>
- * Fondamenti di Analisi dei Dati: <a href="https://antoninofurnari.github.io/fadlecturenotes/">Materiale didattico</a> - altro materiale didattico disponibile su Teams
+ * Fondamenti di Analisi dei Dati: <a href="https://antoninofurnari.github.io/fadlecturenotes2324/">Materiale didattico</a> - altro materiale didattico disponibile su Teams
 
 # Anno Accademico 2022/2023
  * Laboratorio di Programmazione 1: <a href="prog1/2223">Materiale didattico</a>
