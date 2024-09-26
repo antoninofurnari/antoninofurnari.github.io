@@ -14,7 +14,7 @@ Sono disponibile alla supervisione (contemporanea di un numero limitato) di tesi
 
 # Anno Accademico 2024/2025
  * Laboratorio di Programmazione 1: <a href="prog1/2425">Materiale didattico</a>
- * Fondamenti di Analisi dei Dati: <a href="https://antoninofurnari.github.io/fadlecturenotes/">Materiale didattico</a> - altro materiale didattico disponibile su Teams
+ * Fondamenti di Analisi dei Dati: <a href="https://antoninofurnari.github.io/fadlecturenotes2425/">Materiale didattico</a> - altro materiale didattico disponibile su Teams
 
 # Anno Accademico 2023/2024
  * Laboratorio di Programmazione 1: <a href="prog1/2324">Materiale didattico</a>
