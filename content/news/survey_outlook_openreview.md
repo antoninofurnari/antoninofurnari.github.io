@@ -1,6 +1,6 @@
 ---
 title: "Survey_outlook_openreview"
-date: 2024-08-01
+date: 2023-08-01
 draft: false
 ---
 
