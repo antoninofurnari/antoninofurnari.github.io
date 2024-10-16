@@ -14,6 +14,8 @@ This page contains the list of all my publications. Research highlights with bri
  author = {Seminara, Luigi and Farinella, Giovanni Maria and Furnari, Antonino},
  booktitle = {Advances in Neural Information Processing Systems},
  title = {Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos},
+ pdf = {https://arxiv.org/pdf/2406.01486.pdf},
+ url = {https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning},
  year = {2024}
 }
 
