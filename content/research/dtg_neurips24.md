@@ -1,5 +1,4 @@
 ---
-title: "Dtg_neurips24"
 title: "Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos"
 date: 2024-10-16T14:56:27+02:00
 draft: false
@@ -10,6 +9,7 @@ bibtex: ["@inproceedings{seminara2024differentiable,
  year = {2024}
 }"]
 teaser: dtg.png
+video_teaser: false
 ---
 
 Procedural activities are sequences of key-steps aimed at achieving specific goals.
