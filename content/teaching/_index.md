@@ -10,7 +10,7 @@ Since all my current courses are given in Italian, the rest of this page and its
 Si prega di consultare [questa pagina](/ricevimento)
 
 # Tesi
-Sono disponibile alla supervisione (contemporanea di un numero limitato) di tesi su argomenti che concernono l'analisi dei dati e in particolare di dati visuali (immagini e video). Si consiglia agli studenti interessanti allo sviluppo di tesi, di contattarmi almeno sei mesi prima della sessione di laurea prevista.
+Sono disponibile alla supervisione (contemporanea di un numero limitato) di tesi su argomenti che concernono l'analisi dei dati e in particolare di dati visuali (immagini e video). Si consiglia agli studenti interessanti allo sviluppo di tesi, di contattarmi almeno sei mesi prima della sessione di laurea prevista. Si veda [qui](/proposte-tesi) per delle proposte di tesi.
 
 # Anno Accademico 2024/2025
  * Laboratorio di Programmazione 1: <a href="prog1/2425">Materiale didattico</a>
