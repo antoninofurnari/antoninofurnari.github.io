@@ -5,6 +5,8 @@
 * VISAPP 2024
 
 ## Area Chair
+* IJCAI 2025
+* ICRA 2025
 * WACV 2025
 * NeurIPS 2024
 * WACV 2024
@@ -15,6 +17,7 @@
 * VISAPP 2020
 
 ## Workshop Organization
+* EgoVis@CVPR 2025
 * ACVR@ECCV 2024
 * EgoVis@CVPR 2024
 * Joint EPIC and Ego4D @ CVPR 2023
@@ -55,10 +58,11 @@
 * ICVSS 2017
 
 ## Associate Editor
-* The Visual Computer Journal
+* Pattern Recognition
 * IET Computer Vision
 
 ## Guest Editor
-* 2020: IEEE Pattern Analysis and Machine Intelligence Special Issue on Egocentric Perception
+* 2020: IEEE Pattern Analysis and Machine Intelligence (PAMI) Special Issue on Egocentric Perception
 * 2022: Frontiers in Computer Science Special Issue on Machine Vision for Assistive Technology
 * 2024: Image and Vision Computing VISAPP Special Issue
+* 2025: Computer Vision and Image Understanding (CVIU) Special issue on Recent Advances in Assistive Computer Vision and Robotics 

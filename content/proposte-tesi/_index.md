@@ -56,7 +56,7 @@ Il problema della egocentric action anticipation consiste nel predire le prossim
 
 I large language models sono stati recentemente utilizzati con successo per la predizione di azioni future, ma la loro capacità di allucinazione ne limita le performance in diversi casi. I grafi procedurali sono stati recentemente utilizzati come un modo di condificare la conoscenza di una procedura da video. Altri lavori hanno esplorato metodologie per integrare le informazioni fornite dai grafi all'interno di modelli di linguaggio.
 
-Lo scopo della tesi è quello di integrare la conoscenza fornita da un grafo all'interno di un modello LLM per la predizizione di azioni future.
+Lo scopo della tesi è quello di integrare la conoscenza fornita da un grafo all'interno di un modello LLM per la predizione di azioni future.
 
 Letture di riferimento:
 * [Zhao, Q., Wang, S., Zhang, C., Fu, C., Do, M. Q., Agarwal, N., ... & Sun, C. (2023). Antgpt: Can large language models help long-term action anticipation from videos?. arXiv preprint arXiv:2307.16368.](https://arxiv.org/pdf/2307.16368)

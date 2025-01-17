@@ -9,6 +9,20 @@ This page contains the list of all my publications. Research highlights with bri
 <table id="bibtexify-e50c0b8366-" class="display"></table>
 <pre id="bibtex-e50c0b8366-" class="raw-bibtex js-hidden">
 
+@inproceedings{carota2025benchmarking,
+  year = {2025},
+  booktitle = { International Conference on Computer Vision Theory and Applications (VISAPP)  },
+  title = { Benchmarking Neural Rendering Approaches for 3D Reconstruction of Underwater Environments},
+  author = { Salvatore Mario Carota and Alessandro Privitera and Daniele Di Mauro and Antonino Furnari and Giovanni Maria Farinella and Francesco Ragusa}
+}
+
+@inproceedings{catinello2025online,
+  pdf = {https://www.scitepress.org/Papers/2024/124104/124104.pdf},
+  year = {2025},
+  booktitle = { International Conference on Computer Vision Theory and Applications (VISAPP)  },
+  title = { Online Detection of End of Take and Release actions from Egocentric Videos},
+  author = { Alessandro Sebastiano Catinello and Giovanni Maria Farinella and Antonino Furnari }
+}
 
 @inproceedings{seminara2024differentiable,
  author = {Seminara, Luigi and Farinella, Giovanni Maria and Furnari, Antonino},
@@ -169,8 +183,8 @@ doi = {    },
 
 }
 
-@inproceedings{yaar2023finding,
-  pdf = {https://www.antoninofurnari.it/downloads/publications/forte2024world-map.pdf},
+@inproceedings{forte2024world,
+  pdf = {https://www.scitepress.org/Papers/2024/124104/124104.pdf},
   year = {2024},
   booktitle = {  International Conference on Computer Vision Theory and Applications (VISAPP)  },
   title = {  World-map misalignment detection for visual navigation systems  },
@@ -226,11 +240,12 @@ url={https://iplab.dmi.unict.it/stillfast/}
   year = {2023},
 }
 
-@inproceedings{strano2024GPT-Assist,
+@inproceedings{strano2024HERO-GPT,
   year = {2024},
   booktitle = {  International Conference on Image Processing and Video Engineering (IMPROVE)  },
-  title = {  GPT-Assist: Zero-Shot Conversational Assistance in Industrial Domains Exploiting Large Language Models  },
+  title = {  HERO-GPT: Zero-Shot Conversational Assistance in Industrial Domains Exploiting Large Language Models  },
   author = { Luca Strano and Claudia Bonanno and Francesco Ragusa and Giovanni Maria Farinella and Antonino Furnari },
+  pdf={https://www.scitepress.org/Papers/2024/126889/126889.pdf}
 }
 
 @inproceedings{mazzamuto2023wearable,
@@ -238,6 +253,7 @@ url={https://iplab.dmi.unict.it/stillfast/}
   author = {Michele Mazzamuto and Francesco Ragusa and Alessandro Resta and Giovanni Maria Farinella and Antonino Furnari},
   booktitle = {In International Conference on Computer Vision Theory and Applications (VISAPP)},
   year = {2023},
+  pdf={https://www.scitepress.org/publishedPapers/2023/117258/pdf/index.html}
 }
 
 @inproceedings{quattrocchi2023ppe,
@@ -245,6 +261,7 @@ url={https://iplab.dmi.unict.it/stillfast/}
   author = {Camillo Quattrocchi and Daniele Di Mauro and Antonino Furnari and Antonino Lopes and Marco Moltisanti and Giovanni Maria Farinella},
   booktitle = {In International Conference on Computer Vision Theory and Applications (VISAPP)},
   year = {2023},
+  url = {https://iplab.dmi.unict.it/fpv/publications/quattrocchi2023safer.pdf}
 }
 
 @Article{TREK150ijcv,
@@ -272,6 +289,7 @@ author = {Giovanni Pasqualino and Antonino Furnari and Giovanni Maria Farinella}
   booktitle = {International Conference on Signal Processing and Multimedia Applications (SIGMAP)},
   title = {HERO: An Artificial Conversational Assistant to Support Humans in Industrial Scenarios},
   author = {Claudia Bonanno and Francesco Ragusa and Rosario Leonardi and Antonino Furnari and Giovanni Maria Farinella},
+  url = {https://iplab.dmi.unict.it/fpv/publications/bonanno2022HERO.pdf}
 }
 
 @inproceedings{farinella2023wearable,
@@ -299,7 +317,7 @@ author = {Giovanni Pasqualino and Antonino Furnari and Giovanni Maria Farinella}
 }
 
 @inproceedings{finocchiaro2024_CALISTHENICS,
-  pdf = {publications/finocchiaro2024_CALISTHENICS.pdf},
+  pdf = {https://www.scitepress.org/Papers/2024/124006/124006.pdf},
   year = {2024},
   booktitle = {  International Conference on Computer Vision Theory and Applications (VISAPP)  },
   title = {  Calisthenics Skills Temporal Video Segmentation  },
