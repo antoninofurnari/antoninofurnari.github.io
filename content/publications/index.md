@@ -9,6 +9,14 @@ This page contains the list of all my publications. Research highlights with bri
 <table id="bibtexify-e50c0b8366-" class="display"></table>
 <pre id="bibtex-e50c0b8366-" class="raw-bibtex js-hidden">
 
+@inproceedings{mazzamuto2025gazing,
+ author = {Mazzamuto, Michele and Furnari, Antonino and Sato, Yoichi and Farinella, Giovanni Maria},
+ booktitle = {IEE/CVF Conference on Computer Vision and Patter Recognition},
+ title = {Gazing Into Missteps: Leveraging Eye-Gaze for Unsupervised Mistake Detection in Egocentric Videos of Skilled Human Activities},
+ pdf = {https://arxiv.org/pdf/2406.08379.pdf},
+ year = {2025}
+}
+
 @inproceedings{carota2025benchmarking,
   year = {2025},
   booktitle = { International Conference on Computer Vision Theory and Applications (VISAPP)  },
