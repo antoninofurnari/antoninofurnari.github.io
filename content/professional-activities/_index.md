@@ -1,5 +1,10 @@
 # Professional Activities
 
+## Associate Editor
+* IEEE Transactions on Pattern Analysis and Machine Intelligence
+* Pattern Recognition
+* IET Computer Vision
+
 ## Program Chair
 * VISAPP 2025
 * VISAPP 2024
@@ -34,8 +39,9 @@
 * EPIC@ECCV 2018
 
 ## Challenges Organization
-* Egocentric Action Anticipation Challenge - EPIC@CVPR 2024
-* Egocentric Action Detection Challenge - EPIC@CVPR 2024
+* Egocentric Action Detection Challenge - EgoVis@CVPR 2025
+* Egocentric Action Anticipation Challenge - EgoVis@CVPR 2024
+* Egocentric Action Detection Challenge - EgoVis@CVPR 2024
 * Short-Term Human-Object Interaction Anticipation - Ego4D@CVPR 2023
 * Egocentric Action Anticipation Challenge - EPIC@CVPR 2023
 * Egocentric Action Detection Challenge - EPIC@CVPR 2023
@@ -50,16 +56,13 @@
 * Egocentric Action Anticipation Challenge - EPIC@CVPR 2019
 
 ## Academic Assessment Chair
+* ICVSS 2025
 * ICVSS 2024
 * ICVSS 2023
 * ICVSS 2022
 * ICVSS 2019
 * ICVSS 2018
 * ICVSS 2017
-
-## Associate Editor
-* Pattern Recognition
-* IET Computer Vision
 
 ## Guest Editor
 * 2020: IEEE Pattern Analysis and Machine Intelligence (PAMI) Special Issue on Egocentric Perception
