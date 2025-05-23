@@ -22,6 +22,7 @@
 * VISAPP 2020
 
 ## Workshop Organization
+* ACVR@ICCV 2025
 * EgoVis@CVPR 2025
 * ACVR@ECCV 2024
 * EgoVis@CVPR 2024
