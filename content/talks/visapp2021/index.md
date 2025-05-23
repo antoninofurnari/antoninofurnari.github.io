@@ -45,9 +45,9 @@ Fundamentals of Computer Vision and Machine Learning (including Deep Learning)
 <div id="slides"></div>
 
 ## Slides
-[Part 1 - Definitions, motivations, history and research trends](antoninofurnari.it/downloads/talks/furnari_visapp2021_tutorial_part1.pdf)
+[Part 1 - Definitions, motivations, history and research trends](http://antoninofurnari.it/downloads/talks/furnari_visapp2021_tutorial_part1.pdf)
 
-[Part 2 - Building Blocks for First Person Vision Systems](antoninofurnari.it/downloads/talks/furnari_visapp2021_tutorial_part2.pdf)
+[Part 2 - Building Blocks for First Person Vision Systems](http://antoninofurnari.it/downloads/talks/furnari_visapp2021_tutorial_part2.pdf)
 
 <div id="reading"></div>
 

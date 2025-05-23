@@ -37,14 +37,14 @@ The participants will understand the main advantages of first person (egocentric
 
 ## Program
 
-### [14.00 - 15.30] Part I: Definitions, motivations, history and research trends - Antonino Furnari [<a href="antoninofurnari.it/downloads/talks/fpv_tutorial_iciap_2021_part1.pdf">Slides</a>]
+### [14.00 - 15.30] Part I: Definitions, motivations, history and research trends - Antonino Furnari [<a href="http://antoninofurnari.it/downloads/talks/fpv_tutorial_iciap_2021_part1.pdf">Slides</a>]
  * What is first person vision? What is it for?
  * What makes it different from third person vision?
  * History of First Person Vision: visions, ideas, research, devices;
  * Where do we go from here? Research trends, datasets and challenges.
 
 ### [15.30 – 16.00] Coffe Break 
-### [16.00 - 18.00] Part II: Building Blocks for First Person Vision Systems – Francesco Ragusa [<a href="antoninofurnari.it/downloads/talks/fpv_tutorial_iciap_2021_part2.pdf">Slides</a>]
+### [16.00 - 18.00] Part II: Building Blocks for First Person Vision Systems – Francesco Ragusa [<a href="http://antoninofurnari.it/downloads/talks/fpv_tutorial_iciap_2021_part2.pdf">Slides</a>]
  * Data Acquisition & Datasets;
  * Fundamental Task in First Person Vision:
    * Localization;

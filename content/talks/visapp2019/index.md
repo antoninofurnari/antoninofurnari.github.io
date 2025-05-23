@@ -40,8 +40,8 @@ Fundamentals of Computer Vision and Machine Learning (including Deep Learning)
 <div id="slides"></div>
 
 ## Slides
-[Part 1](antoninofurnari.it/downloads/talks/furnari_visapp2019_tutorial_part1.pdf)
-[Part 2](antoninofurnari.it/downloads/talks/furnari_visapp2019_tutorial_part2.pdf)
+[Part 1](http://antoninofurnari.it/downloads/talks/furnari_visapp2019_tutorial_part1.pdf)
+[Part 2](http://antoninofurnari.it/downloads/talks/furnari_visapp2019_tutorial_part2.pdf)
 
 <div id="reading"></div>
 

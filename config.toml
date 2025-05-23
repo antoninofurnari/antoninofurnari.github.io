@@ -77,8 +77,14 @@ themeColor = "#0078bd"
   url = "/research/"
 
   [[menu.main]]
+  name = "📢 Talks"
+  weight = 120
+  identifier = "talks"
+  url = "/talks/"
+
+  [[menu.main]]
   name = "✍️ Professional Activities"
-  weight = 100
+  weight = 150
   identifier = "professional-activities"
   url = "/professional-activities/"
 
@@ -91,13 +97,13 @@ themeColor = "#0078bd"
   [[menu.main]]
   name = "🧑‍🎓 Teaching"
   identifier = "teaching"
-  weight = 200
+  weight = 250
   url = "/teaching/"
 
   [[menu.main]]
   name = "📝 Lecture Notes"
   identifier = "lecturenotes"
-  weight = 250
+  weight = 270
   url = "/lecture-notes/"
 
   [[menu.main]]
@@ -109,13 +115,13 @@ themeColor = "#0078bd"
 #  [[menu.main]]
 #  name = "🗣️ Talks"
 #  identifier = "talks"
-#  weight = 300
+#  weight = 350
 #  url = "/talks/"
 
 #  [[menu.main]]
 #  name = "👨‍👨‍👦 Service"
 #  identifier = "service"
-#  weight = 300
+#  weight = 360
 #  url = "/service/"
 
  [[menu.main]]

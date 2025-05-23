@@ -41,7 +41,7 @@ The participants will understand the main advantages of first person (egocentric
 
 ## Program
 
-### [14.45 - 16.30] Part I: Definitions, motivations, history and research trends - Antonino Furnari [<a href="antoninofurnari.it/downloads/talks/fpv_tutorial_visapp_2023_part1.pdf">Slides</a>]
+### [14.45 - 16.30] Part I: Definitions, motivations, history and research trends - Antonino Furnari [<a href="http://antoninofurnari.it/downloads/talks/fpv_tutorial_visapp_2023_part1.pdf">Slides</a>]
  * Agenda of the tutorial; 
  * Definitions, motivations, history and research trends of First Person (egocentric) Vision; 
  * Seminal works in First Person (Egocentric) Vision; 
@@ -52,7 +52,7 @@ The participants will understand the main advantages of first person (egocentric
 
 
 ### [16.30 – 17.30] Coffe Break 
-### [17.30 - 18.45] Part II: Building Blocks for First Person Vision Systems – Francesco Ragusa [<a href="antoninofurnari.it/downloads/talks/fpv_tutorial_visapp_2023_part2.pdf">Slides</a>]
+### [17.30 - 18.45] Part II: Building Blocks for First Person Vision Systems – Francesco Ragusa [<a href="http://antoninofurnari.it/downloads/talks/fpv_tutorial_visapp_2023_part2.pdf">Slides</a>]
  * Localization;
  * Hand/Object Detection;
  * Action Recognition;
