@@ -57,7 +57,21 @@ High-quality, open-source notes will be provided during the course. For referenc
 </div>
 
 ## Fondamenti di Analisi dei Dati e Laboratorio 2024/2025
+<ul>
+<li>
 <a href="https://antoninofurnari.github.io/fadlecturenotes2425/">Lecture Notes</a> 
+</li>
+<li>
+<a href="https://web.dmi.unict.it/corsi/l-31/insegnamenti?seuid=3E9BAE80-A48F-4247-8448-1B70CBC0A9FE">Syllabus</a> 
+</li>
+</ul>
 
 ## Fondamenti di Analisi dei Dati e Laboratorio 2023/2024
+<ul>
+<li>
 <a href="https://antoninofurnari.github.io/fadlecturenotes2324/">Lecture Notes</a> 
+</li>
+<li>
+<a href="https://web.dmi.unict.it/corsi/lm-18/insegnamenti?seuid=90338D5D-A89C-494D-BC2B-4BD3B1D32B7E">Syllabus</a> 
+</li>
+</ul>
