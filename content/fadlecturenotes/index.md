@@ -3,7 +3,9 @@ This page contains information on the Fundamentals of Data Analysis course, incl
 
 The course has been updated through the years. Please find each year's details in the following.
 
+
 ## Fondamenti di Analisi dei Dati e Laboratorio 2025/2026
+<a name="top">
 <a href="fad_infographic.pdf" target="_blank"><img src='fad_infographic.png' style="float:left; width:400px; margin-right:30px"></a>
 
 <div>
