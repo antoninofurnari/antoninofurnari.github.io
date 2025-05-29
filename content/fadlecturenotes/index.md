@@ -17,7 +17,7 @@ The resulting course now focuses on core concepts without delving too much into 
 
 <h3>Structure of the course</h3>
 <p>
-The course includes a theory module (6 CFU) and a laboratory module (3 CFU). Theory sessions focus on core topics and algorithms, but also cover intuition and examples. Laboratory sessions are interactive and focus on the solution of real data analysis problems using the Python language and related data science libraries.
+The course includes a theory module (6 CFU) and a laboratory module (3 CFU). Theory sessions focus on core topics and algorithms, but also cover intuition and examples. Laboratory sessions focus on the solution of real data analysis problems using the Python language and related data science libraries through live coding sessions in the classroom.
 </p>
 
 <h3> Examination</h3>
@@ -27,7 +27,7 @@ The examination consists of a written exam and project in Python. Passing two in
 
 <h3>Data Science Challenge</h3>
 <p>
-At the end of the course, a challenge on data analysis will be organized. Students will have to solve a real data analysis project in 24 hours and present the results afterwards. The challenge can be tackled by small groups of 1-3 students. If the presentation is deemed to be sufficient, students are exempted from the project.
+At the end of the course, a challenge on data analysis will be organized. Students will have to solve a real data analysis project in 24/48 hours and present the results afterwards. The challenge can be tackled by small groups of 1-3 students. If the presentation is deemed to be sufficient, students are exempted from the project.
 </p>
 
 <h3>Notes</h3>
@@ -35,7 +35,7 @@ At the end of the course, a challenge on data analysis will be organized. Studen
 High-quality, open-source notes will be provided during the course. For reference, consider last years' notes which can be found <a href="http://antoninofurnari.github.io/fadlecturenotes2425/" target="_blank">here</a>. Please consider that last years' notes are significantly more extensive than the ones intended for this year (and released lecture by lecture during the year) due to changes in the syllabus. Old notes will be always available for reference, but their content are not subject to examination. The student will instead refer to the current year's notes.
 </p>
 
-<h3>Summary and Syllabus</h3>
+<h3>Synthetic Syllabus</h3>
 <p>
 <a href="fad_infographic.pdf" target="_blank">This flier</a> reports brief information on the course. A tentative syllbus is reported in the following:
 
