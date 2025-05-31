@@ -12,7 +12,7 @@ disable_share: true
 
 <p>I teach a Bachelor course on <a href="/teaching/prog1/"> Computer Programming</a> and a Master course on Fundamentals of Data Analysis <a href="https://antoninofurnari.github.io/fadlecturenotes/">here</a>. I supervised more than 30 bachelor and master theses and supervised/currently supervising <a href="/people/">8 PhD students</a>.</p>
 
-<a href="https://www.antoninofurnari.it/downloads/antonino_bio.txt" target="_blank">Here</a> is a bio page that can be used for talks 
+<a href="https://www.antoninofurnari.it/downloads/antonino_bio.txt" target="_blank">Here</a> is a bio page that can be used for talks.
 
 ## News 
 {{< news-list >}}
