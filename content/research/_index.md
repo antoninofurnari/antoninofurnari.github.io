@@ -10,8 +10,9 @@ I am interested in developing algorithms and wearable systems based on egocentri
 
 
 ## Research Highlights
-This highlights recent research aligned to my main research interests. Please see the <a href="/publications/" target="_blank">publications page</a> for a full list of publications.
+This section highlights recent research aligned to my main research interests. Please see the <a href="/publications/" target="_blank">publications page</a> for a full list of publications.
 
+A list of recent talks can be found <a href="/talks/" target="_blank">here</a>.
 
 {{< research-list >}}
 
