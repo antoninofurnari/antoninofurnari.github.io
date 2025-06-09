@@ -1,7 +1,14 @@
 ---
 title: 'First Person (Egocentric) Vision: From Augmented Perception to Interaction and Anticipation'
 type: "page"
+date: 2020-02-09
+draft: false
+when: "9 Feb. 2020"
+venue: "VISAPP 2020 Tutorials, Valletta, MT"
+venue_url: "https://visapp.scitevents.org/Tutorials.aspx?y=2020"
+slides_url: "/talks/visapp2020"
 ---
+
 <style>
     
     table {

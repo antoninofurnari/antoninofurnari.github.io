@@ -1,6 +1,11 @@
 ---
-title: 'Building Wearable Assistants with First Person (Egocentric Vision): History, Challenges, Opportunities and Applications'
+title: 'Building Wearable Assistants with First Person (Egocentric) Vision: History, Challenges, Opportunities and Applications'
 type: "page"
+date: "2023-09-15"
+when: "15 Sept. 2023"
+draft: false
+venue_url: "https://sites.google.com/view/iciap-2023/workshops-tutorials"
+venue: "ICIAP 2023 Tutorials, Udine"
 ---
 
 <style>

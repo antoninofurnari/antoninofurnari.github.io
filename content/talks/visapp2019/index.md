@@ -1,6 +1,12 @@
+
 ---
-title: 'Building Personal AIs with First Person (Egocentric) Vision'
-type: "page"
+title: "Democratizing the Access to AI through Egocentric Vision"
+date: 2019-04-01
+draft: false
+when: "25 Feb. 2019"
+venue: "VISAPP 2019 Tutorials"
+venue_url: "https://visapp.scitevents.org/Tutorials.aspx?y=2019"
+slides_url: "/talks/visapp2019"
 ---
 <style>
     

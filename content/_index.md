@@ -14,6 +14,11 @@ disable_share: true
 
 <a href="https://www.antoninofurnari.it/downloads/antonino_bio.txt" target="_blank">Here</a> is a bio page that can be used for talks.
 
+## Recent and Upcoming Talks 
+{{< talks-list >}}
+
+<p><a href="/talks/">See All Talks</a></p>
+
 ## News 
 {{< news-list >}}
 

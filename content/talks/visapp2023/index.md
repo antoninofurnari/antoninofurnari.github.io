@@ -1,6 +1,12 @@
 ---
 title: 'A Tutorial on First Person (Egocentric) Vision'
 type: "page"
+date: 2023-02-19
+draft: false
+when: "19 Feb. 2023"
+venue: "VISAPP 2023 Tutorials, Lisbon, PT"
+venue_url: "https://visapp.scitevents.org/Tutorials.aspx?y=2023"
+slides_url: "/talks/visapp2023"
 ---
 
 <style>

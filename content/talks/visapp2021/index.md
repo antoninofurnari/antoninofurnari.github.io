@@ -1,6 +1,12 @@
 ---
 title: 'Building the Next Generation of Virtual Personal Assistants with First Person (Egocentric) Vision: From Visual Intelligence to AI and Future Predictions'
 type: "page"
+date: 2021-02-09
+draft: false
+when: "9 Feb. 2021"
+venue: "VISAPP 2021 Tutorials"
+venue_url: "https://visapp.scitevents.org/Tutorials.aspx?y=2021"
+slides_url: "/talks/visapp2021"
 ---
 
 <style>
@@ -18,7 +24,7 @@ type: "page"
 
 **Tutorial at VISAPP 2021 - 16th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications**
 
-**February 09 2020**
+**February 09 2021**
 
 [[Slides](#slides)] [[Further Reading](#reading)]
 

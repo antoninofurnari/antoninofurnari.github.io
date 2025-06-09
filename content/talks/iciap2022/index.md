@@ -1,6 +1,12 @@
 ---
 title: 'Building the Next Generation of Virtual Personal Assistants with First Person (Egocentric) Vision: From Visual Intelligence to AI and Future Predictions'
 type: "page"
+date: 2022-05-24
+draft: false
+when: "24 May 2022"
+venue: "ICIAP 2021 Tutorials, Lecce, IT"
+venue_url: "https://www.iciap2021.org/tutorials/"
+slides_url: "/talks/iciap2022"
 ---
 
 <style>
