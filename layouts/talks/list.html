@@ -1,0 +1,6 @@
+
+{{ define "main" }}
+  <h1>Talks</h1>
+  {{ partial "talks-list.html" (sort .Pages "Date" "desc") }}
+{{ end }}
+

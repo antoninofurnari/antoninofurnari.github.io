@@ -1,0 +1,22 @@
+<table class="news">
+{{ range . }}
+<tr>
+    <td><b>{{ .Params.When }}</b></td> 
+    
+    <td>
+    {{ if .Params.Slides_url }}
+    <a target="_blank" href="{{ .Params.Slides_url }}">{{ .Title }}</a> -
+    {{ else }}
+        {{ .Title }} - 
+    {{ end }}
+    {{ if .Params.Venue }}
+        {{ if .Params.Venue_url }}
+        <a target="_blank" href="{{ .Params.Venue_url }}">{{ .Params.Venue }}</a>
+        {{ else }}
+        {{ .Params.Venue }}
+        {{ end }}    
+    {{ end }}
+    </td>
+</tr>
+{{ end }}
+</table>
