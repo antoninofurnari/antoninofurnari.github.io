@@ -5,5 +5,5 @@ draft: false
 when: "23 May 2025"
 slides_url: "http://antoninofurnari.it/downloads/talks/ehm_icra25.pdf"
 venue: "Enhancing human mobility: From computer vision-based motion tracking to wearable assistive robot control"
-venue_uel: "https://sites.google.com/andrew.cmu.edu/icra2025-vision-wearable-robot"
+venue_url: "https://sites.google.com/andrew.cmu.edu/icra2025-vision-wearable-robot"
 ---
