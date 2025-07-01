@@ -1,6 +1,6 @@
 ---
 title: "Egocentric Vision: An Anticipatory Sensor for Wearable Robots - From Action Forecasting to Procedural Understanding"
-date: 2025-04-12
+date: 2025-04-1
 draft: false
 when: "23 May 2025"
 slides_url: "http://antoninofurnari.it/downloads/talks/ehm_icra25.pdf"
