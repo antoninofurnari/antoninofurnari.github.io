@@ -1,5 +1,5 @@
 ---
-title: "Wacv24"
+title: "Wacv25"
 date: 2024-06-01
 draft: false
 ---
