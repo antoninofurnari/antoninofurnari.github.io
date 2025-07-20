@@ -1,6 +1,6 @@
 ---
 title: "Home"
-date: 2022-08-25T14:21:29+02:002
+date: 2022-08-25T14:21:29+02:00
 disable_share: true
 ---
 

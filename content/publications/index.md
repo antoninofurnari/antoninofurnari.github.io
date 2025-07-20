@@ -9,6 +9,41 @@ This page contains the list of all my publications. Research highlights with bri
 <table id="bibtexify-e50c0b8366-" class="display"></table>
 <pre id="bibtex-e50c0b8366-" class="raw-bibtex js-hidden">
 
+@inproceedings{Catinello2025MambaOTR,
+  author    = {Catinello, Alessandro Sebastiano and Farinella, Giovanni Maria and Furnari, Antonino},
+  title     = {Mamba-OTR: a Mamba-based Solution for Online Take and Release Detection from Untrimmed Egocentric Video},
+  booktitle = {Proceedings of the 23rd International Conference on Image Analysis and Processing (ICIAP)},
+  year      = {2025}
+}
+
+@inproceedings{Finocchiaro2025Efficient,
+  author    = {Finocchiaro, Antonio and Farinella, Giovanni Maria and Furnari, Antonino},
+  title     = {Efficient Calisthenics Skills Classification through Foreground Instance Selection and Depth Estimation},
+  booktitle = {Proceedings of the 23rd International Conference on Image Analysis and Processing (ICIAP)},
+  year      = {2025}
+}
+
+@inproceedings{Lando2025HowFar,
+  author    = {Lando, Giuseppe and Forte, Rosario and Farinella, Giovanni Maria and Furnari, Antonino},
+  title     = {How Far Can Off-the-Shelf Multimodal Large Language Models Go in Online Episodic Memory Question Answering?},
+  booktitle = {Proceedings of the 23rd International Conference on Image Analysis and Processing (ICIAP)},
+  year      = {2025}
+}
+
+@inproceedings{Catinello2025EgoExo,
+  author    = {Catinello, Alessandro Sebastiano and Dunnhofer, Matteo and Farinella, Giovanni Maria and Frontoni, Emanuele and Furnari, Antonino and Micheloni, Christian and Paolanti, Marina and Pietrini, Rocco and Salierno, Devis and Stacchio, Lorenzo and Yaar, Asfand},
+  title     = {Ego and exo views for an object-level human behavior analysis and understanding through tracking in retail spaces},
+  booktitle = {Proceedings of the 23rd International Conference on Image Analysis and Processing (ICIAP)},
+  year      = {2025}
+}
+
+@inproceedings{Manigrasso2025TEVO,
+  author    = {Manigrasso, Zaira and Finocchiaro, Antonio and Manara, Davide and Forte, Rosario and Nottebaum, Moritz and Dunnhofer, Matteo and Farinella, Giovanni Maria and Furnari, Antonino and Micheloni, Christian},
+  title     = {T-EVO: Tracking in Egovision for Online Visual Episodic Memory},
+  booktitle = {Proceedings of the 23rd International Conference on Image Analysis and Processing (ICIAP)},
+  year      = {2025}
+}
+
 @inproceedings{mazzamuto2025gazing,
  author = {Mazzamuto, Michele and Furnari, Antonino and Sato, Yoichi and Farinella, Giovanni Maria},
  booktitle = {IEE/CVF Conference on Computer Vision and Patter Recognition},
