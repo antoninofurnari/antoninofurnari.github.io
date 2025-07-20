@@ -4,7 +4,7 @@ date: 2025-07-20
 draft: false
 ---
 
-7 papers accepted at the <a href="https://www.iciap2025.org/">23rd International Conference on Image Analysis and Processing (ICIAP 2025)</a>!
+7 papers accepted at the <a href="https://www.iciap.org/">23rd International Conference on Image Analysis and Processing (ICIAP 2025)</a>!
 
 Of these, 3 have been accepted for oral presentation, 2 as posters, and 2 in the workshops.
 
