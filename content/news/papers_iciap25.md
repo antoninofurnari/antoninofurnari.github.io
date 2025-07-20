@@ -27,4 +27,4 @@ Of these, 3 have been accepted for oral presentation, 2 as posters, and 2 in the
     <li>Finocchiaro, A., Catinello, A. S., Mazzamuto, M., Leonardi, R., Furnari, A., & Farinella, G. M. (2025). <i>A Real-Time System for Egocentric Hand-Object Interaction Detection in Industrial Domains</i>.</li>
 </ul>
 
-<a href="https://www.iciap.org/program/conference-program" target="_blank">Full program here</a>
+<a href="https://www.iciap.org/program/conference-program" target="_blank">Full program here.</a>
