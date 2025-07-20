@@ -1,5 +1,5 @@
 ---
-title: "7 Papers Accepted at ICIAP 2025"
+title: "7 Papers Accepted at ICIAP 2025!"
 date: 2025-07-20
 draft: false
 ---
