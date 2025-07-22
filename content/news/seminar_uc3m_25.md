@@ -5,3 +5,5 @@ draft: false
 ---
 
 I gave a week-long seminar on Video Understanding at Universidad Carlos III de Madrid to the students of the PhD in Signal Processing and Communications Engineering. 
+
+![Group picture](madrid25_group_picture.png) 
