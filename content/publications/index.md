@@ -8,6 +8,16 @@ This page contains the list of all my publications. Research highlights with bri
 
 <table id="bibtexify-e50c0b8366-" class="display"></table>
 <pre id="bibtex-e50c0b8366-" class="raw-bibtex js-hidden">
+@article{Rodin2025Egocentric,
+  author = { Ivan Rodin and Antonino Furnari and Giovanni Maria Farinella },
+  journal = { IET Computer Vision },
+  title = { Egocentric Action Anticipation from Untrimmed Videos },
+  year = { 2025 },
+  url = { https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12342 },
+  pdf = {https://iplab.dmi.unict.it/live/publications/Rodin2025Egocentric.pdf},
+  doi = { 10.1049/cvi2.12342 },
+  pages = {  },
+}
 
 @inproceedings{Catinello2025MambaOTR,
   author    = {Alessandro Sebastiano Catinello and Giovanni Maria Farinella and Antonino Furnari},
@@ -88,6 +98,30 @@ This page contains the list of all my publications. Research highlights with bri
  pdf = {https://arxiv.org/pdf/2406.01486.pdf},
  url = {https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning},
  year = {2024}
+}
+
+@inproceedings{rosano2025crowdsim++,
+  author = { Marco Rosano and Danilo Leocata and Antonino Furnari and Giovanni Maria Farinella },
+  title = {  CrowdSim++: Unifying Crowd Navigation and Obstacle Avoidance  },
+  booktitle = {  International Conference on Agents and Artificial Intelligence (ICAART)  },
+  pdf = { https://iplab.dmi.unict.it/live/publications/Rosano2025CrowdSim.pdf},
+  year = { 2025 },
+}
+
+@inproceedings{moltisanti2025Egocentric,
+  pdf = { https://iplab.dmi.unict.it/live/publications/Moltisanti2025Egogentric.pdf},
+  year = { 2025 },
+  booktitle = { Ital-IA 2025: 5th National Conference on Artificial Intelligence, June 23–24, 2025, Trieste, Italy },
+  title = { Egocentric Human-Object Interaction in Industrial Scenarios: a Case Study },
+  author = { Marco Moltisanti and Ketty Cantone and Antonino Lopes and Emanuele Ragusa and Rosario Leonardi and Francesco Ragusa and Antonino Furnari and Giovanni Maria Farinella },
+}
+
+@inproceedings{dimauro2025spatial,
+  author = { Daniele Di Mauro and Francesco Ragusa and Antonino Furnari and Giovanni Maria Farinella },
+  title = { Spatial Understanding for Industry  },
+  booktitle = {  Ital-IA 2025: 5th National Conference on Artificial Intelligence, June 23–24, 2025, Trieste, Italy  },
+  year = { 2025 },
+  pdf = {  },
 }
 
 @ARTICLE{Grauman20241,
