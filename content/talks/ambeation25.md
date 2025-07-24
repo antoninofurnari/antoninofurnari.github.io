@@ -5,4 +5,5 @@ draft: false
 when: "21 July 2025"
 venue: "AMBEATion Workshop"
 venue_url: "https://ambeation.polito.it"
+slides_url: "http://antoninofurnari.it/downloads/talks/ambeation_21_07_25.pdf"
 ---
