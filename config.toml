@@ -10,7 +10,7 @@ enableEmoji = true
 [params]
   mainSections = ["news", "research"]
 author = "Antonino Furnari"
-role = "T. Track Asst. Professor"
+role = "Associate Professor"
 university = "University of Catania"
 university_url = "https://www.unict.it/"
 department = "Department of Mathematics and Computer Science"
