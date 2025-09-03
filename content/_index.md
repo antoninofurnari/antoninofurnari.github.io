@@ -6,7 +6,7 @@ disable_share: true
 
 
 <h1>About Me</h1>
-<p>I am a tenure-track Assistant Professor at the University of Catania's Department of Mathematics and Computer Science, where I am a member of the <a target="_blank" href="http://iplab.dmi.unict.it/live/">Image Processing Laboratory (IPLAB)</a>. </p>
+<p>I am an Associate Professor at the University of Catania's Department of Mathematics and Computer Science, where I am a member of the <a target="_blank" href="http://iplab.dmi.unict.it/live/">Image Processing Laboratory (IPLAB)</a>. </p>
 
 <p>My research investigates how intelligent systems can perceive, understand, and anticipate human actions and interactions directly from an embodied, egocentric viewpoint, to enable assistive technologies on wearable devices that provide direct support to users. See <a href="/research">this page</a> for selected research highlights and <a href="/publications">this page</a> for the full list of publications.</p></a>
 
