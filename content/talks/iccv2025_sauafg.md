@@ -1,0 +1,8 @@
+---
+title: "Talk at ICCV 2025 Workshop on AI-driven Skilled Activity Understanding, Assessment & Feedback Generation"
+date: 2025-10-19
+when: "19 Oct. 2025"
+venue: "ICCV 2025 Workshop on AI-driven Skilled Activity Understanding, Assessment & Feedback Generation"
+venue_url: https://sauafg-workshop.github.io
+draft: false
+---
