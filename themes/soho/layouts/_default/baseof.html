@@ -100,7 +100,7 @@
   <script src="{{ . | relURL }}"></script>
   {{- end}}
 
-    {{ if not .Site.IsServer }}
+    {{ if hugo.IsProduction }}
       {{ template "_internal/google_analytics.html" . }}
     {{ end }}
 </body>

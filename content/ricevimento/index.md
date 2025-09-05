@@ -18,7 +18,7 @@ Si prega di prenotare il ricevimento mediante questo link: [https://forms.office
 
 Per maggiori informazioni sulla posizione dello studio, si consulti la seguente pagina: https://web.dmi.unict.it/docenti/antonino.furnari
 
-**Il ricevimento si tiene di norma in presenza il Lunedì dalle 14.00 alle 16.00, ma si prega di verificare eventuali variazioni dal calendario riportato sotto**
+**Il ricevimento si tiene secondo il calendario riportato sotto**
 
 ## Prossimi ricevimenti
 

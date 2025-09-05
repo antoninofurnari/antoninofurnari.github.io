@@ -14,7 +14,7 @@ This page contains the list of all my publications. Research highlights with bri
   title = { Egocentric Action Anticipation from Untrimmed Videos },
   year = { 2025 },
   url = { https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12342 },
-  pdf = {https://iplab.dmi.unict.it/live/publications/Rodin2025Egocentric.pdf},
+  pdf = {https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cvi2.12342?download=true},
   doi = { 10.1049/cvi2.12342 },
   pages = {  },
 }
