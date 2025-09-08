@@ -6,10 +6,13 @@
 * IET Computer Vision
 
 ## Program Chair
+* VISAPP 2026
 * VISAPP 2025
 * VISAPP 2024
 
 ## Area Chair
+* CVPR 2026
+* WACV 2026
 * IJCAI 2025
 * ICRA 2025
 * WACV 2025
