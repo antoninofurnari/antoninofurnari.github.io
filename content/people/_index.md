@@ -1,7 +1,7 @@
 # People
 
 ## Postdoc
-* [Asfand Yaar](https://www.linkedin.com/in/asfandyaarasif/), Postdoc, 2024 - current
+* [Asfand Yaar](https://www.linkedin.com/in/asfandyaarasif/), Postdoc, 2024 - 2025
 
 ## PhD Students (as main supervisor)
 * [Rosario Forte](https://www.linkedin.com/in/rosario-forte-577229187/), PhD Student, 2024 - current
