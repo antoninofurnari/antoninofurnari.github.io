@@ -8,6 +8,30 @@ This page contains the list of all my publications. Research highlights with bri
 
 <table id="bibtexify-e50c0b8366-" class="display"></table>
 <pre id="bibtex-e50c0b8366-" class="raw-bibtex js-hidden">
+@inproceedings{Manigrasso2026Online,
+  year = { 2026 },
+  booktitle = { IEEE Winter Conference on Application of Computer Vision (WACV) },
+  title = { Online Episodic Memory Visual Query Localization with Egocentric Streaming Object Memory },
+  author = { Zaira Manigrasso and Matteo Dunnhofer and Antonino Furnari and Moritz Nottebaum and Antonio Finocchiaro and Davide Marana and Rosario Forte and Giovanni Maria Farinella and Christian Micheloni },
+  pdf = {  },
+} 
+
+@inproceedings{Mazzamuto2026ProSkill,
+  year = { 2026 },
+  booktitle = { IEEE Winter Conference on Application of Computer Vision (WACV) },
+  title = { ProSkill: Segment-Level Skill Assessment in Procedural Videos },
+  author = { Michele Mazzamuto and Daniele Di Mauro and Gianpiero Francesca and Giovanni Maria Farinella and Antonino Furnari },
+  pdf = {  },
+} 
+
+@inproceedings{Ragusa2026Ego-EXTRA,
+  year = { 2026 },
+  booktitle = { IEEE Winter Conference on Application of Computer Vision (WACV) },
+  title = { Ego-EXTRA: video-language Egocentric Dataset for EXpert-TRAinee assistance },
+  author = { Francesco Ragusa and Michele Mazzamuto and Rosario Forte and Irene D'Ambra and James Fort and Jakob Engel and Antonino Furnari and Giovanni Maria Farinella },
+  pdf = {  },
+}
+
 @article{Rodin2025Egocentric,
   author = { Ivan Rodin and Antonino Furnari and Giovanni Maria Farinella },
   journal = { IET Computer Vision },
