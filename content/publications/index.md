@@ -8,6 +8,15 @@ This page contains the list of all my publications. Research highlights with bri
 
 <table id="bibtexify-e50c0b8366-" class="display"></table>
 <pre id="bibtex-e50c0b8366-" class="raw-bibtex js-hidden">
+
+@article{quattrocchi2024synchronization,
+  url = { https://github.com/fpv-iplab/synchronization-is-all-you-need },
+  author = { Camillo Quattrocchi and Antonino Furnari and Daniele Di Mauro and Mario Valerio Giuffrida and Giovanni Maria Farinella },
+  title = {  Exocentric-to-Egocentric Adaptation for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs},
+  journal = {  International Journal on Computer Vision (IJCV)  },
+  year = { 2025 }
+}
+
 @inproceedings{Manigrasso2026Online,
   year = { 2026 },
   booktitle = { IEEE Winter Conference on Application of Computer Vision (WACV) },
