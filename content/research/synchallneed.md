@@ -9,6 +9,12 @@ bibtex: ["@inproceedings{quattrocchi2024synchronization,
   title = { Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs },
   author = { Camillo Quattrocchi and Antonino Furnari and Daniele Di Mauro and Mario Valerio Giuffrida and Giovanni Maria Farinella },
   url = {https://github.com/fpv-iplab/synchronization-is-all-you-need}
+}","@article{quattrocchi2024synchronization,
+  url = { https://github.com/fpv-iplab/synchronization-is-all-you-need },
+  author = { Camillo Quattrocchi and Antonino Furnari and Daniele Di Mauro and Mario Valerio Giuffrida and Giovanni Maria Farinella },
+  title = {  Exocentric-to-Egocentric Adaptation for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs},
+  journal = {  International Journal on Computer Vision (IJCV)  },
+  year = { 2025 }
 }"]
 teaser: syncallneed.png
 ---
