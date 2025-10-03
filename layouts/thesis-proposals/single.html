@@ -1,0 +1,63 @@
+{{ define "main" -}}
+<!--{{ partial "breadcrumbs.html" . }}-->
+<div class="post" id="top">
+  <h1 class="title">{{ .Title }}
+    {{ if eq .Params.note.lang "ita"}}
+    <a style="text-decoration: none;" href="https://{{.Site.Params.TranslateDomain}}.translate.goog{{$.Permalink}}?_x_tr_sl=it&_x_tr_tl=en&_x_tr_hl=it&_x_tr_pto=wapp">🇬🇧</a>
+    {{ end }}
+  </h1>
+  {{ $page := . }}
+  {{ with .Params.teaser }}
+    <img src="{{ $page.Section | relURL }}/{{ . }}" alt="{{ $page.Title }}" class="teaser-image">
+  {{ end }}
+  {{ with .Params.tagline }}<span class="tagline">{{ . }}</span>{{ end }}
+  <!-- {{ if ne .Type "page" -}}
+  <div class="post-date">
+    <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}">{{ .Date.Format "Jan 2, 2006" }}</time> <span class="readtime">&middot; {{ .ReadingTime }} min read</span>
+  </div>
+  {{- end }} -->
+
+
+  
+
+  
+
+  {{ if .Params.note }}
+  {{ if eq .Params.note.lang "ita"}}
+  <blockquote class="note">
+    Note a cura di Antonino Furnari - <a href="mailto:antonino.furnari@unict.it">antonino.furnari@unict.it</a>  <br>
+    Università di Catania, Dipartimento di Matematica e Informatica <br>
+    Note disponibili qui: <a href="https://{{.Site.Params.Domain}}{{$.Permalink}}">http://{{.Site.Params.Domain}}{{$.Permalink}}</a>
+  </blockquote>
+  {{ else if eq .Params.note.lang "eng"}}
+  <blockquote class="note">
+    Notes by Antonino Furnari - <a href="mailto:antonino.furnari@unict.it">antonino.furnari@unict.it</a>  <br>
+    University of Catania, Department of Mathematics and Computer Science <br>
+    Notes available at: <a href="https://{{.Site.Params.Domain}}{{$.Permalink}}">http://{{.Site.Params.Domain}}{{$.Permalink}}</a>
+  </blockquote>
+  {{ end }}
+  {{ end }}
+
+  {{ if .Params.toc }}  
+    {{ .TableOfContents }}
+    <a class="top" href="#top">🔝</a>
+  {{ end }}
+
+  <div>
+  {{ .Content }}
+  </div>
+
+  {{ partial "tags.html" . }}
+
+  {{ if (and (ne .Params.DisableShare true) (ne .Params.disable_share true)) -}}
+  {{ partial "share.html" . }}
+  {{- end }}
+
+  {{ if (and site.Config.Services.Disqus.Shortname (ne .Params.DisableComments true) (ne .Params.disable_comments true)) -}}
+  <div class="comments">
+    <h2>Comments</h2>
+    {{ template "_internal/disqus.html" . }}
+  </div>
+  {{- end }}
+</div>
+{{- end }}

@@ -1,0 +1,4 @@
+{{ define "main" }}
+  <h1>Proposte di Tesi</h1>
+  {{ partial "thesis-proposal-list.html" (sort .Pages "Date" "desc") }}
+{{ end }}

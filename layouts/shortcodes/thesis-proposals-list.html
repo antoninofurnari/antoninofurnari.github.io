@@ -1,0 +1,2 @@
+{{ $pages := sort (where .Site.RegularPages "Section" "thesis-proposals") "Date" "desc" }}
+{{ partial "thesis-proposals-list.html" $pages }}
