@@ -10,7 +10,7 @@ Since all my current courses are given in Italian, the rest of this page and its
 Si prega di consultare [questa pagina](/ricevimento)
 
 # Tesi
-Sono disponibile alla supervisione (contemporanea di un numero limitato) di tesi su argomenti che concernono l'analisi dei dati e in particolare di dati visuali (immagini e video). Si consiglia agli studenti interessanti allo sviluppo di tesi, di contattarmi almeno sei mesi prima della sessione di laurea prevista. Si veda [qui](/proposte-tesi) per delle proposte di tesi.
+Si veda [qui](/proposte-tesi) per delle proposte di tesi.
 
 # Anno Accademico 2025/2026
 * Fondamenti di Analisi dei Dati e Laboratorio: <a href="/fadlecturenotes/">vedi qui</a>

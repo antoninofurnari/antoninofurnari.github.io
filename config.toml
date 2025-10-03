@@ -8,7 +8,7 @@ summarylength = 10
 enableEmoji = true
 
 [params]
-  mainSections = ["news", "research"]
+  mainSections = ["news", "research", "thesis-proposals"]
 author = "Antonino Furnari"
 role = "Associate Professor"
 university = "University of Catania"
@@ -42,7 +42,7 @@ licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 themeColor = "#0078bd"
 
 ## Set custom CSS and/or JS to override site defaults.
-#customCss = ["css/blog.css"]
+customCss = ["css/custom.css"]
 #customJs = ["js/blog.js"]
 
   ## Set as many as you want.
@@ -99,6 +99,12 @@ themeColor = "#0078bd"
   identifier = "teaching"
   weight = 250
   url = "/teaching/"
+
+  [[menu.main]]
+  name = "🎓 Thesis Proposals"
+  identifier = "thesis-proposals"
+  weight = 260
+  url = "/thesis-proposals/"
 
   [[menu.main]]
   name = "📝 Lecture Notes"
