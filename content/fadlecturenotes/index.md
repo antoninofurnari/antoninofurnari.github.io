@@ -3,6 +3,8 @@ This page contains information on the Fundamentals of Data Analysis course, incl
 
 The course has been updated through the years. Please find each year's details in the following.
 
+<a href="https://antoninofurnari.github.io/fadlecturenotes2526/">Note</a>
+
 
 ## Fondamenti di Analisi dei Dati e Laboratorio 2025/2026
 <a name="top">
@@ -32,7 +34,7 @@ At the end of the course, a challenge on data analysis will be organized. Studen
 
 <h3>Notes</h3>
 <p>
-High-quality, open-source notes will be provided during the course. For reference, consider last years' notes which can be found <a href="http://antoninofurnari.github.io/fadlecturenotes2425/" target="_blank">here</a>. Please consider that last years' notes are significantly more extensive than the ones intended for this year (and released lecture by lecture during the year) due to changes in the syllabus. Old notes will be always available for reference, but their content are not subject to examination. The student will instead refer to the current year's notes.
+High-quality, open-source notes will be provided during the course. Notes can be found <a href="http://antoninofurnari.github.io/fadlecturenotes2526/" target="_blank">here</a>. Please consider that last years' notes are significantly more extensive than the ones intended for this year (and released lecture by lecture during the year) due to changes in the syllabus. Old notes will be always available for reference, but their content are not subject to examination. The student will instead refer to the current year's notes.
 </p>
 
 <h3>Synthetic Syllabus</h3>
