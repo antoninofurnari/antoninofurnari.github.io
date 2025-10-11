@@ -13,7 +13,7 @@ Si prega di consultare [questa pagina](/ricevimento)
 Si veda [qui](/proposte-tesi) per delle proposte di tesi.
 
 # Anno Accademico 2025/2026
-* Fondamenti di Analisi dei Dati e Laboratorio: <a href="/fadlecturenotes/">Informazioni sul corso</a> <a href="https://antoninofurnari.github.io/fadlecturenotes2526/">Note</a>
+* Fondamenti di Analisi dei Dati e Laboratorio: <a href="/fadlecturenotes/">Informazioni sul corso</a> | <a href="https://antoninofurnari.github.io/fadlecturenotes2526/">Note</a> | <a href="https://fadquestions.onrender.com">Esempi di Domande di Esame</a>
 * Deep Learning (more info later)
 
 # Anno Accademico 2024/2025

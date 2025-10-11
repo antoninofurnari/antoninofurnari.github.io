@@ -3,7 +3,7 @@ This page contains information on the Fundamentals of Data Analysis course, incl
 
 The course has been updated through the years. Please find each year's details in the following.
 
-<a href="https://antoninofurnari.github.io/fadlecturenotes2526/">Note</a>
+<a href="https://antoninofurnari.github.io/fadlecturenotes2526/">Notes</a> | <a href="https://fadquestions.onrender.com">Example Exam Questions</a>
 
 
 ## Fondamenti di Analisi dei Dati e Laboratorio 2025/2026
