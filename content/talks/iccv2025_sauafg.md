@@ -5,4 +5,5 @@ when: "19 Oct. 2025"
 venue: "ICCV 2025 Workshop on AI-driven Skilled Activity Understanding, Assessment & Feedback Generation"
 venue_url: https://sauafg-workshop.github.io
 draft: false
+slides_url: "https://www.antoninofurnari.it/downloads/talks/iccv_sauafg_19_10_25.pdf"
 ---
