@@ -9,6 +9,23 @@ This page contains the list of all my publications. Research highlights with bri
 <table id="bibtexify-e50c0b8366-" class="display"></table>
 <pre id="bibtex-e50c0b8366-" class="raw-bibtex js-hidden">
 
+@article{Grauman2025,
+  author    = {Kristen Grauman and Andrew Westbury and Lorenzo Torresani and Kris Kitani and Jitendra Malik and Triantafyllos Afouras and Kumar Ashutosh and Vijay Baiyya and Siddhant Bansal and Bikram Boote and Eugene Byrne and Zach Chavis and Joya Chen and Feng Cheng and Fu-Jen Chu and Sean Crane and Avijit Dasgupta and Jing Dong and Maria Escobar and Cristhian Forigua and Abrham Gebreselasie and Sanjay Haresh and Jing Huang and Md Mohaiminul Islam and Suyog Jain and Rawal Khirodkar and Devansh Kukreja and Kevin J. Liang and Jia-Wei Liu and Sagnik Majumder and Yongsen Mao and Miguel Martin and Effrosyni Mavroudi and Tushar Nagarajan and Francesco Ragusa and Santhosh Kumar Ramakrishnan and Luigi Seminara and Arjun Somayazulu and Yale Song and Shan Su and Zihui Xue and Edward Zhang and Jinxu Zhang and Angela Castillo and Changan Chen and Xinzhu Fu and Ryosuke Furuta and Cristina González and Prince Gupta and Jiabo Hu and Yifei Huang and Yiming Huang and Weslie Khoo and Anush Kumar and Robert Kuo and Sach Lakhavani and Miao Liu and Mi Luo and Zhengyi Luo and Brighid Meredith and Austin Miller and Oluwatumininu Oguntola and Xiaqing Pan and Penny Peng and Shraman Pramanick and Merey Ramazanova and Fiona Ryan and Wei Shan and Kiran Somasundaram and Chenan Song and Audrey Southerland and Masatoshi Tateno and Huiyu Wang and Yuchen Wang and Takuma Yagi and Mingfei Yan and Xitong Yang and Zecheng Yu and Shengxin Cindy Zha and Chen Zhao and Ziwei Zhao and Zhifan Zhu and Jeff Zhuo and Pablo Arbeláez and Gedas Bertasius and David Crandall and Dima Damen and Jakob Engel and Giovanni Maria Farinella and Antonino Furnari and Bernard Ghanem and Judy Hoffman and C. V. Jawahar and Richard Newcombe and Hyun Soo Park and James M. Rehg and Yoichi Sato and Manolis Savva and Jianbo Shi and Mike Zheng Shou and Michael Wray},
+  title     = {Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives},
+  journal   = {International Journal of Computer Vision},
+  year      = {2025},
+  month     = nov,
+  day       = {24},
+  volume    = {},
+  number    = {},
+  pages     = {},
+  doi       = {10.1007/s11263-025-02557-6},
+  url       = {https://doi.org/10.1007/s11263-025-02557-6},
+  issn      = {1573-1405},
+  pdf = {https://link.springer.com/content/pdf/10.1007/s11263-025-02557-6.pdf}
+}
+
+
 @article{quattrocchi2024synchronization,
   url = { https://github.com/fpv-iplab/synchronization-is-all-you-need },
   author = { Camillo Quattrocchi and Antonino Furnari and Daniele Di Mauro and Mario Valerio Giuffrida and Giovanni Maria Farinella },
