@@ -9,7 +9,7 @@
 * [Luigi Seminara](https://seminaraluigi.altervista.org/), PhD Student, 2023 - current
 * Kooshyar Koosari, PhD Student, 2022 - 2023 
 
-## PhD Students (as secondary supervisor)
+## PhD Students (co-supervised with <a target="_blank" href="https://www.dmi.unict.it/farinella/">Prof. Farinella</a>)
 * [Claudia Bonanno](https://www.linkedin.com/in/claudia-bonanno-81b1301ab/), PhD Student, 2022 - 2026
 * [Michele Mazzamuto](https://it.linkedin.com/in/michele-mazzamuto-3b06a6178), PhD Student, 2021 - 2025
 * [Asfand Yaar](https://www.linkedin.com/in/asfandyaarasif/), PhD Student, 2021 - 2025 
