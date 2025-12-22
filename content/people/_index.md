@@ -26,7 +26,7 @@
 * [Lorenzo Mur-Labadia, University of Zaragoza](https://sites.google.com/unizar.es/lorenzo-mur-labadia/inicio), Sept. 2023 - Dec 2023
 
 ## Master Students
-* Luca Strano, MSc, 2024 - current
+* Luca Strano, MSc, 2024 - 2025
 * Giuseppe Lando, MSc, 2024 - 2025
 * [Antonio Finocchiaro](https://www.linkedin.com/in/antonio-finocchiaro-834522288/), MSc, 2024 - 2025
 * Sebastiano Catinello, MSc, 2024 - 2025
