@@ -14,7 +14,8 @@ bibtex: ["@inproceedings{quattrocchi2024synchronization,
   author = { Camillo Quattrocchi and Antonino Furnari and Daniele Di Mauro and Mario Valerio Giuffrida and Giovanni Maria Farinella },
   title = {  Exocentric-to-Egocentric Adaptation for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs},
   journal = {  International Journal on Computer Vision (IJCV)  },
-  year = { 2025 }
+  year = { 2025 },
+  url = {https://link.springer.com/article/10.1007/s11263-025-02675-1}
 }"]
 teaser: syncallneed.png
 ---

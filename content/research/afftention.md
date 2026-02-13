@@ -8,7 +8,17 @@ bibtex: ["@inproceedings{mur-labadia2024AFF-ttention,\n
   title = { AFF-ttention! Affordances and Attention models for Short-Term Object Interaction Anticipation },\n
   author = { Lorenzo Mur-Labadia and Ruben Martinez-Cantin and Josechu Guerrero and Giovanni Maria Farinella and Antonino Furnari },\n
   url = {https://github.com/lmur98/AFFttention}\n
-}"]
+}",
+"@ARTICLE{mur2026integrating,
+  author={Mur-Labadia, Lorenzo and Martinez-Cantin, Ruben and Guerrero, Jose J. and Farinella, Giovanni Maria and Furnari, Antonino},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Integrating Affordances and Attention models for Short-Term Object Interaction Anticipation}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-17},
+  keywords={Affordances;Videos;Transformers;Object detection;Predictive models;Hands;Forecasting;Trajectory;Training;Head;Short-term forecasting;Affordances;Egocentric video understanding},
+  doi={10.1109/TPAMI.2026.3652831}}"]
 teaser: afftention.png
 video_teaser: false
 ---

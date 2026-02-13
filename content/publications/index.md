@@ -47,7 +47,8 @@ This page contains the list of all my publications. Research highlights with bri
   booktitle = { IEEE Winter Conference on Application of Computer Vision (WACV) },
   title = { ProSkill: Segment-Level Skill Assessment in Procedural Videos },
   author = { Michele Mazzamuto and Daniele Di Mauro and Gianpiero Francesca and Giovanni Maria Farinella and Antonino Furnari },
-  pdf = {  },
+  pdf = {https://arxiv.org/pdf/2601.20661},
+  url = {https://fpv-iplab.github.io/ProSkill/}
 } 
 
 @inproceedings{Ragusa2026Ego-EXTRA,
@@ -209,6 +210,17 @@ This page contains the list of all my publications. Research highlights with bri
   title = { AFF-ttention! Affordances and Attention models for Short-Term Object Interaction Anticipation },
   author = { Lorenzo Mur-Labadia and Ruben Martinez-Cantin and Josechu Guerrero and Giovanni Maria Farinella and Antonino Furnari },
 }
+
+@ARTICLE{mur2026integrating,
+  author={Mur-Labadia, Lorenzo and Martinez-Cantin, Ruben and Guerrero, Jose J. and Farinella, Giovanni Maria and Furnari, Antonino},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Integrating Affordances and Attention models for Short-Term Object Interaction Anticipation}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-17},
+  keywords={Affordances;Videos;Transformers;Object detection;Predictive models;Hands;Forecasting;Trajectory;Training;Head;Short-term forecasting;Affordances;Egocentric video understanding},
+  doi={10.1109/TPAMI.2026.3652831}}
 
 @inproceedings{rodin2023action,
   primaryclass = { cs.CV },
