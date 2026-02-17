@@ -17,8 +17,8 @@ bibtex: ["@inproceedings{mur-labadia2024AFF-ttention,\n
   volume={},
   number={},
   pages={1-17},
-  keywords={Affordances;Videos;Transformers;Object detection;Predictive models;Hands;Forecasting;Trajectory;Training;Head;Short-term forecasting;Affordances;Egocentric video understanding},
-  doi={10.1109/TPAMI.2026.3652831}}"]
+  doi={10.1109/TPAMI.2026.3652831},
+  pdf={https://arxiv.org/pdf/2602.14837}}"]
 teaser: afftention.png
 video_teaser: false
 ---

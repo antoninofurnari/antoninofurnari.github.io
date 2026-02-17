@@ -3,6 +3,7 @@
 <ul class="breadcrumb">
   <li><a href="/">HOME</a></li>
   
+  
   {{ range $index, $element := split .RelPermalink "/" }}
     {{ $.Scratch.Add "path" $element }}
       {{ if ne $element "" }}
